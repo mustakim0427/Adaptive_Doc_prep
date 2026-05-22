@@ -1,0 +1,102 @@
+[
+  {
+    "section_id": "5",
+    "question_text": "What is the primary principle behind the Doctrine of Sequential Suspension?",
+    "option_a": "Suspension is a continuous capability",
+    "option_b": "Suspension is a decisive resource, not a continuous capability",
+    "option_c": "Sequence does not determine lethality",
+    "option_d": "Acquisition is not a vulnerability",
+    "correct_answer": "B",
+    "explanation": "The Doctrine of Sequential Suspension rests on six core principles, with the first principle stating that suspension is a decisive resource, not a continuous capability, emphasizing the importance of treating each activation as ammunition."
+  },
+  {
+    "section_id": "5",
+    "question_text": "What is the maximum number of activations allowed per 60-second window according to the Three-Two-One Rule?",
+    "option_a": "2",
+    "option_b": "3",
+    "option_c": "4",
+    "option_d": "5",
+    "correct_answer": "B",
+    "explanation": "The Three-Two-One Rule states that there should be three activations maximum per 60-second window, two active sightlines maintained at any moment, and one pre-anchored extraction route held in reserve."
+  },
+  {
+    "section_id": "5",
+    "question_text": "What is the required engagement protocol for Tier 3 threats?",
+    "option_a": "Solo, full authority",
+    "option_b": "Cell required, lead authority, with relaxed Three-Two-One Rule",
+    "option_c": "Cell required, lead authority, with strict Three-Two-One Rule enforcement",
+    "option_d": "Cell + auxiliary cell, Director's authorization required",
+    "correct_answer": "C",
+    "explanation": "For Tier 3 threats, the engagement protocol requires a cell, with lead authority, and the Three-Two-One Rule must be enforced strictly."
+  },
+  {
+    "section_id": "5",
+    "question_text": "What is the maximum number of objects that can be held simultaneously using the Suspended Field technique?",
+    "option_a": "2",
+    "option_b": "3",
+    "option_c": "4",
+    "option_d": "5",
+    "correct_answer": "C",
+    "explanation": "The Suspended Field technique allows the asset to hold a maximum of 4 low-mass objects simultaneously, matching the available activations within a 60-s window minus a 1-suspension reserve."
+  },
+  {
+    "section_id": "5",
+    "question_text": "What is the civilian collateral threshold below which the asset is empowered to abort engagement?",
+    "option_a": "70% confidence",
+    "option_b": "80% confidence",
+    "option_c": "90% confidence",
+    "option_d": "95% confidence",
+    "correct_answer": "B",
+    "explanation": "PAMC Standing Order 9 specifies a zero-tolerance threshold below 80% confidence that no civilian harm will occur from any planned activation, empowering the asset to abort engagement at her sole discretion if civilian risk exceeds this threshold."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the primary purpose of the micro-cache network maintained by the asset?",
+    "option_a": "To store sensitive documents and equipment",
+    "option_b": "To provide a means of emergency communication and supply",
+    "option_c": "To serve as a safehouse for the asset and other operatives",
+    "option_d": "To gather intelligence on potential targets",
+    "correct_answer": "B",
+    "explanation": "The micro-cache network is designed to provide a standardized set of supplies, including food, medical equipment, and communication devices, to support the asset's operations in the field."
+  },
+  {
+    "section_id": "8",
+    "question_text": "Which of the following is a restricted zone within the asset's operational territory?",
+    "option_a": "Salar de Atacama",
+    "option_b": "Salar de Uyuni Sector 4",
+    "option_c": "Easter Island",
+    "option_d": "All of the above",
+    "correct_answer": "D",
+    "explanation": "All of the options listed are restricted zones within the asset's operational territory, each with its own specific reason for restriction."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the approximate size of the asset's authorized operational territory?",
+    "option_a": "1 million km²",
+    "option_b": "3 million km²",
+    "option_c": "6.8 million km²",
+    "option_d": "10 million km²",
+    "correct_answer": "C",
+    "explanation": "The asset's operational territory spans approximately 6.8 million km², covering parts of several countries in the Andean region."
+  },
+  {
+    "section_id": "8",
+    "question_text": "How often are the locations of the micro-caches rotated?",
+    "option_a": "Every 6 months",
+    "option_b": "Every 12 months",
+    "option_c": "Every 24 months",
+    "option_d": "Every 36 months",
+    "correct_answer": "D",
+    "explanation": "The locations of the micro-caches are rotated every 36 months, with the current placements having been finalized in 2024 and scheduled for review in 2027."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the name of the primary base used by the asset, and what is its location?",
+    "option_a": "Cuartel Valparaíso, located in Lima",
+    "option_b": "Edificio Marasol, located in Valparaíso",
+    "option_c": "Cuartel Valparaíso, located in Valparaíso",
+    "option_d": "Oficina Tarija, located in La Paz",
+    "correct_answer": "C",
+    "explanation": "The primary base used by the asset is Cuartel Valparaíso, which is located in Valparaíso, Chile, and serves as the PAMC South Cone Headquarters."
+  }
+]
