@@ -1,152 +1,152 @@
 [
   {
     "section_id": "6",
-    "question_text": "What is the primary function of Cell Halcón within the PAMC?",
-    "option_a": "To conduct scientific research on metahuman physics",
-    "option_b": "To provide medical support to metahuman operatives",
-    "option_c": "To serve as a tactical unit under SLATEFALL's command",
-    "option_d": "To oversee the development of new metahuman technology",
-    "correct_answer": "C",
-    "explanation": "Cell Halcón is described as a four-operative tactical unit under SLATEFALL's command, indicating its primary function is to carry out tactical operations."
+    "question_text": "What is the primary role of the Cooperative Bureau of Metahuman Physics (CBMP) within the Pan-American Metahuman Cooperative (PAMC)?",
+    "option_a": "To oversee the operations of all metahuman cells",
+    "option_b": "To conduct research and development in metahuman physics",
+    "option_c": "To provide medical support to metahuman operatives",
+    "option_d": "To coordinate with external civilian allies",
+    "correct_answer": "B",
+    "explanation": "The CBMP is mentioned as one of the four directorates of the PAMC, and Dr. Léon Marrón-Saavedra, a senior scientist at the CBMP, conducts annual scientific re-evaluations of the asset's power, indicating a focus on research and development in metahuman physics."
   },
   {
     "section_id": "6",
-    "question_text": "What is the role of Director Aída Salvatierra-Bunge in relation to SLATEFALL?",
-    "option_a": "She is the asset's primary psychologist",
-    "option_b": "She is the Director-General of the PAMC",
-    "option_c": "She is the director of the Cooperative Bureau of Metahuman Physics",
-    "option_d": "She is the asset's direct chain-of-command superior",
+    "question_text": "What is the significance of Cuartel Valparaíso in relation to the PAMC?",
+    "option_a": "It is the headquarters of the PAMC",
+    "option_b": "It is a PAMC safehouse",
+    "option_c": "It is a former affiliation of the asset",
+    "option_d": "The text does not provide information about Cuartel Valparaíso",
     "correct_answer": "D",
-    "explanation": "According to the text, Director Aída Salvatierra-Bunge is the asset's direct chain-of-command superior, indicating she has authority over SLATEFALL's operations."
+    "explanation": "The provided text does not mention Cuartel Valparaíso, suggesting that it is not a relevant location within the given context."
   },
   {
     "section_id": "6",
-    "question_text": "What is the significance of the Calvache-Marrón Equations in relation to SLATEFALL?",
-    "option_a": "They are used to predict the asset's metahuman power levels",
-    "option_b": "They are a set of equations used to design new metahuman technology",
-    "option_c": "They are a theoretical framework for understanding metahuman physics",
-    "option_d": "They are a set of guidelines for metahuman operative training",
+    "question_text": "What is the relationship between the asset and Comandante Ezequiel Ovalle-Garrido?",
+    "option_a": "Adversarial, with a history of conflict",
+    "option_b": "Professional, with a long-standing relationship",
+    "option_c": "Personal, with a family connection",
+    "option_d": "Distant, with minimal interaction",
+    "correct_answer": "B",
+    "explanation": "Comandante Ovalle-Garrido is described as having a long-standing professional relationship with the asset, dating back to 2014, and is authorized to coordinate Chilean Army support for PAMC operations in Chilean territory."
+  },
+  {
+    "section_id": "6",
+    "question_text": "What is the protocol for engaging Tier 3 threats, according to the provided text?",
+    "option_a": "The text explicitly outlines a specific engagement protocol for Tier 3 threats",
+    "option_b": "The text implies a flexible approach to engaging Tier 3 threats, depending on the situation",
+    "option_c": "The text does not provide information on engagement protocols for Tier 3 threats",
+    "option_d": "The text recommends avoiding engagement with Tier 3 threats whenever possible",
+    "correct_answer": "C",
+    "explanation": "The provided text does not mention a specific engagement protocol for Tier 3 threats, suggesting that this information is not available within the given context."
+  },
+  {
+    "section_id": "6",
+    "question_text": "What is the Three-Two-One Rule, and what does it govern?",
+    "option_a": "The Three-Two-One Rule governs the maximum number of metahuman activations per 60-second window, allowing up to 3 activations",
+    "option_b": "The Three-Two-One Rule governs the minimum number of operatives required for a Tier 4 engagement, requiring at least 3 operatives",
+    "option_c": "The Three-Two-One Rule governs the maximum number of activations permitted per 60-second window, but the exact number is not specified in the text",
+    "option_d": "The Three-Two-One Rule governs the rotation of Cell Halcón members, requiring a minimum of 3 years of service before rotation",
+    "correct_answer": "C",
+    "explanation": "The text mentions the Three-Two-One Rule but does not provide specific details on what it governs or the exact numbers, suggesting that this information is not available within the given context."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the primary purpose of Cuartel Valparaíso?",
+    "option_a": "To serve as a logistics-only annex",
+    "option_b": "To function as the asset's primary operational base and PAMC South Cone Headquarters",
+    "option_c": "To act as a field office for Bolivian altiplano operations",
+    "option_d": "To operate as a regional CBMP medical office only",
+    "correct_answer": "B",
+    "explanation": "Cuartel Valparaíso is designated as the asset's primary operational base and PAMC South Cone Headquarters, indicating its primary purpose is to serve as the main base of operations."
+  },
+  {
+    "section_id": "8",
+    "question_text": "How often are the micro-cache locations rotated?",
+    "option_a": "Every 12 months",
+    "option_b": "Every 24 months",
+    "option_c": "Every 36 months",
+    "option_d": "Every 48 months",
+    "correct_answer": "C",
+    "explanation": "According to the study material, cache locations are rotated every 36 months, with current placements finalized in 2024 and set to be reviewed in 2027."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the maximum number of personnel that can be accommodated at Cuartel Valparaíso?",
+    "option_a": "30 personnel",
+    "option_b": "38 personnel",
+    "option_c": "47 personnel",
+    "option_d": "142 personnel",
+    "correct_answer": "D",
+    "explanation": "While Cuartel Valparaíso has a residential capacity of 38 personnel, its working capacity is 142 personnel, making this the maximum number of personnel that can be accommodated."
+  },
+  {
+    "section_id": "8",
+    "question_text": "Which of the following is a restricted zone within the asset's operational territory?",
+    "option_a": "Salar de Atacama",
+    "option_b": "Salar de Uyuni Sector 4",
+    "option_c": "Lake Titicaca",
+    "option_d": "The Galapagos Islands",
+    "correct_answer": "B",
+    "explanation": "Salar de Uyuni Sector 4 is listed as a restricted zone due to an ongoing classified PAMC investigation since 2023, requiring limited access and prior coordination."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What type of agreement governs the overlap between the asset's territory and Cell Cóndor's operations?",
+    "option_a": "Informal understanding",
+    "option_b": "Formal coordination agreement",
+    "option_c": "Bilateral cooperation framework",
+    "option_d": "Observation-only sharing",
+    "correct_answer": "B",
+    "explanation": "The study material states that formal coordination agreements govern the overlaps between the asset's territory and other operators, including Cell Cóndor."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What is the primary purpose of documenting case files in the PAMC format?",
+    "option_a": "To track adversary movements and patterns",
+    "option_b": "To evaluate the effectiveness of engagement protocols and identify areas for improvement",
+    "option_c": "To monitor the performance of individual operatives",
+    "option_d": "To classify and store sensitive information",
+    "correct_answer": "B",
+    "explanation": "The primary purpose of documenting case files is to evaluate the effectiveness of engagement protocols and identify areas for improvement, as seen in the various case files that highlight the outcomes, casualties, and post-action notes."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What can be inferred about the Tier 3 threat engagement protocol based on the case files provided?",
+    "option_a": "It requires a minimum of two operatives to engage the threat",
+    "option_b": "It involves the use of specialized equipment, such as high-lux operation kits",
+    "option_c": "It has a high risk of civilian casualties, as seen in the Quebrantadero Showdown case",
+    "option_d": "It is not clearly defined in the provided case files",
+    "correct_answer": "D",
+    "explanation": "The case files do not provide a clear definition of the Tier 3 threat engagement protocol, but rather highlight the catastrophic outcome of the Quebrantadero Showdown case, which was classified as a Tier-3 threat."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What is the significance of the Cuartel Valparaíso in the context of the provided case files?",
+    "option_a": "It is a PAMC headquarters location",
+    "option_b": "It is a training facility for operatives",
+    "option_c": "It is a key location for Concession affiliate activity",
+    "option_d": "It is not mentioned in the provided case files",
+    "correct_answer": "D",
+    "explanation": "The Cuartel Valparaíso is not mentioned in the provided case files, and its significance or primary function cannot be inferred from the available information."
+  },
+  {
+    "section_id": "9",
+    "question_text": "According to the Three-Two-One Rule, what is the maximum number of activations permitted per 60-second window?",
+    "option_a": "1 activation per 60 seconds",
+    "option_b": "2 activations per 60 seconds, with a 30-second cooldown",
+    "option_c": "3 activations per 60 seconds, with a 20-second cooldown",
+    "option_d": "The rule is not clearly defined in the provided case files",
+    "correct_answer": "D",
+    "explanation": "The Three-Two-One Rule is mentioned in the context of the case files, but its specifics, including the maximum number of activations permitted per 60-second window, are not clearly defined in the provided information."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What can be inferred about the Drift Read ability based on the case files provided?",
+    "option_a": "It is a newly emerged ability that allows the asset to detect and interdict incoming threats",
+    "option_b": "It is a well-established ability that has been used in multiple operations",
+    "option_c": "It is a ability that can only be used in conjunction with other assets",
+    "option_d": "It is a ability that is not effective in combat situations",
     "correct_answer": "A",
-    "explanation": "Dr. Léon Marrón-Saavedra, co-author of the Calvache-Marrón Equations, conducts annual scientific re-evaluations of the asset's power, suggesting the equations are used to predict or understand SLATEFALL's metahuman power levels."
-  },
-  {
-    "section_id": "6",
-    "question_text": "How does the PAMC's relationship with Comandante Ezequiel Ovalle-Garrido facilitate its operations?",
-    "option_a": "It provides the PAMC with access to Chilean Army intelligence",
-    "option_b": "It allows the PAMC to conduct operations in Chilean territory with Chilean Army support",
-    "option_c": "It enables the PAMC to recruit Chilean Army personnel for its operations",
-    "option_d": "It gives the PAMC authority over Chilean Army metahuman units",
-    "correct_answer": "B",
-    "explanation": "Comandante Ovalle-Garrido is described as a liaison officer between the PAMC and the Chilean Army, and is authorized to coordinate Chilean Army support for PAMC operations in Chilean territory."
-  },
-  {
-    "section_id": "6",
-    "question_text": "What can be inferred about the level of trust between SLATEFALL and its allies based on the provided information?",
-    "option_a": "The asset has a low level of trust with its allies, due to its metahuman classification",
-    "option_b": "The asset has a moderate level of trust with its allies, but this can vary depending on the individual",
-    "option_c": "The asset has a high level of trust with its allies, as indicated by the trust ratings provided",
-    "option_d": "The asset does not have any allies, and operates independently",
-    "correct_answer": "C",
-    "explanation": "The trust ratings provided for SLATEFALL's allies, such as Solène Bauer-Cortez, Mateo Quispe-Linares, and Maite Borghi-Castelnuovo, are all high (5 out of 5), indicating a high level of trust between the asset and its allies."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What is the primary purpose of the micro-cache network maintained by the asset?",
-    "option_a": "To store sensitive documents and equipment",
-    "option_b": "To provide a means of communication and coordination with other operators",
-    "option_c": "To supply the asset with essential items such as food, water, and medical supplies",
-    "option_d": "To serve as a temporary base of operations for the asset",
-    "correct_answer": "C",
-    "explanation": "The micro-cache network is designed to provide the asset with essential items such as food, water, medical supplies, and equipment, allowing her to operate independently for extended periods."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What is the significance of the 36-month rotation of micro-cache locations?",
-    "option_a": "It allows the asset to update the cache contents with new equipment and supplies",
-    "option_b": "It helps to prevent the caches from being discovered by hostile forces",
-    "option_c": "It enables the asset to adjust the cache locations based on changing operational requirements",
-    "option_d": "It is a standard procedural requirement with no specific operational significance",
-    "correct_answer": "B",
-    "explanation": "The rotation of micro-cache locations every 36 months is likely intended to prevent the caches from being discovered by hostile forces, reducing the risk of compromise and maintaining operational security."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What is the approximate size of the asset's authorized operational territory?",
-    "option_a": "1 million km²",
-    "option_b": "3 million km²",
-    "option_c": "6.8 million km²",
-    "option_d": "10 million km²",
-    "correct_answer": "C",
-    "explanation": "The asset's authorized operational territory spans approximately 6.8 million km², covering the western and southern Andean states, including parts of Chile, Bolivia, Peru, Argentina, and Ecuador."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What is the purpose of the Yatiri network in the asset's operational territory?",
-    "option_a": "To provide a means of secure communication between the asset and PAMC headquarters",
-    "option_b": "To facilitate coordination with other operators and allied forces",
-    "option_c": "To serve as a backup system in case of primary communication network failure",
-    "option_d": "To enable the asset to access classified information and intelligence reports",
-    "correct_answer": "A",
-    "explanation": "The Yatiri network is a burst-relay node system that provides a means of secure communication between the asset and PAMC headquarters, as well as with other operators and allied forces, ensuring reliable and secure communication across the operational territory."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What is the status of the Cerro Castillo exclusion ring within the asset's operational territory?",
-    "option_a": "It is a restricted zone due to ongoing classified PAMC investigation",
-    "option_b": "It is a forbidden zone due to jurisdictional issues",
-    "option_c": "It is a restricted zone due to psychological concerns and CBMP recommendation",
-    "option_d": "It is an open zone with no restrictions or concerns",
-    "correct_answer": "C",
-    "explanation": "The Cerro Castillo exclusion ring is a restricted zone due to psychological concerns and a CBMP recommendation, and the asset has not entered the area since the 2018 incident, indicating a deliberate decision to avoid the location."
-  },
-  {
-    "section_id": "9",
-    "question_text": "What can be inferred about the operational range of SLATEFALL based on the case files?",
-    "option_a": "It is limited to the Atacama Desert",
-    "option_b": "It covers multiple countries in South America",
-    "option_c": "It is restricted to urban areas",
-    "option_d": "It is only operational at night",
-    "correct_answer": "B",
-    "explanation": "The case files mention operations in Chile, Argentina, and Bolivia, indicating that SLATEFALL's operational range covers multiple countries in South America."
-  },
-  {
-    "section_id": "9",
-    "question_text": "What is the significance of the location of the primary base used by the asset?",
-    "option_a": "It is located in a densely populated city",
-    "option_b": "It is situated in a remote area to minimize civilian collateral damage",
-    "option_c": "It is located near the Atacama Desert",
-    "option_d": "It is not mentioned in the case files",
-    "correct_answer": "B",
-    "explanation": "Although the exact location of the primary base is not mentioned, the fact that the asset is empowered to abort engagement if civilian collateral damage is expected to be high suggests that the base is likely located in a remote area to minimize such damage."
-  },
-  {
-    "section_id": "9",
-    "question_text": "According to the Three-Two-One Rule, what is the maximum number of activations allowed per 60-second window?",
-    "option_a": "1",
-    "option_b": "2",
-    "option_c": "3",
-    "option_d": "Not specified in the case files",
-    "correct_answer": "D",
-    "explanation": "The Three-Two-One Rule is mentioned in the context of the asset's operations, but the exact details of the rule are not provided in the case files."
-  },
-  {
-    "section_id": "9",
-    "question_text": "What can be inferred about the civilian collateral threshold below which the asset is empowered to abort engagement?",
-    "option_a": "It is set at 1 civilian casualty",
-    "option_b": "It is set at 5 civilian casualties",
-    "option_c": "It is set at 10 civilian casualties",
-    "option_d": "It is not specified in the case files",
-    "correct_answer": "D",
-    "explanation": "The case files mention that the asset is empowered to abort engagement if civilian collateral damage is expected to be high, but the exact threshold is not specified."
-  },
-  {
-    "section_id": "9",
-    "question_text": "How often are the locations of the micro-caches rotated, according to the case files?",
-    "option_a": "Daily",
-    "option_b": "Weekly",
-    "option_c": "Monthly",
-    "option_d": "Not specified in the case files",
-    "correct_answer": "D",
-    "explanation": "The case files do not mention the frequency at which the locations of the micro-caches are rotated."
+    "explanation": "The case files mention the Drift Read ability as a newly emerged ability that was first operationally validated in the Atacama Altiplano case, and it is described as the asset's ability to detect and interdict incoming threats."
   }
 ]

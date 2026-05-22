@@ -1,52 +1,52 @@
 [
   {
     "section_id": "8",
-    "question_text": "What is the primary function of Cuartel Valparaíso within the PAMC?",
-    "option_a": "Logistics-only annex",
-    "option_b": "Field office for Bolivian altiplano operations",
-    "option_c": "PAMC South Cone Headquarters and primary operational base",
-    "option_d": "Safehouse for the asset",
+    "question_text": "What type of zones are formally restricted within the asset's operational territory?",
+    "option_a": "Forbidden zones",
+    "option_b": "Danger zones",
+    "option_c": "Restricted and Forbidden zones",
+    "option_d": "Safe zones",
     "correct_answer": "C",
-    "explanation": "Cuartel Valparaíso is designated as the PAMC South Cone Headquarters and serves as the asset's primary operational base, indicating its primary function is to act as the main hub for PAMC operations in the region."
+    "explanation": "According to Section 8.6, there are three zones within the asset's operational territory that are formally restricted, which include both restricted and forbidden zones."
   },
   {
     "section_id": "8",
-    "question_text": "How often are the micro-cache locations rotated?",
-    "option_a": "Every 12 months",
-    "option_b": "Every 24 months",
-    "option_c": "Every 36 months",
-    "option_d": "Every 60 months",
-    "correct_answer": "C",
-    "explanation": "The micro-cache locations are rotated every 36 months, with the current placements being finalized in 2024 and scheduled for review in 2027."
+    "question_text": "What is the primary purpose of the micro-cache network maintained by the asset?",
+    "option_a": "To store sensitive information",
+    "option_b": "To provide emergency supplies and equipment",
+    "option_c": "To serve as a communication relay",
+    "option_d": "To accommodate personnel",
+    "correct_answer": "B",
+    "explanation": "The micro-cache network is designed to provide the asset with emergency supplies and equipment, such as food, water, medical kits, and communication devices, in case of an emergency."
   },
   {
     "section_id": "8",
-    "question_text": "What is the approximate size of the asset's authorized operational territory?",
-    "option_a": "1.8 million km²",
-    "option_b": "3.4 million km²",
-    "option_c": "6.8 million km²",
-    "option_d": "8.2 million km²",
+    "question_text": "What is the significance of Cuartel Valparaíso in relation to the PAMC?",
+    "option_a": "It is the PAMC's primary headquarters",
+    "option_b": "It is the asset's personal residence",
+    "option_c": "It is the PAMC South Cone Headquarters and the asset's primary operational base",
+    "option_d": "It is a restricted zone",
     "correct_answer": "C",
-    "explanation": "The asset's authorized operational territory spans approximately 6.8 million km², covering the western and southern Andean states."
+    "explanation": "Cuartel Valparaíso is designated as the PAMC South Cone Headquarters and serves as the asset's primary operational base, making it a crucial location for the PAMC's operations in the region."
   },
   {
     "section_id": "8",
-    "question_text": "What is the purpose of the burst-relay nodes within the PAMC Yatiri network?",
-    "option_a": "To provide satellite uplink capabilities",
-    "option_b": "To serve as safehouses for the asset",
-    "option_c": "To facilitate line-of-comms for cell-led operations",
-    "option_d": "To store micro-cache contents",
-    "correct_answer": "C",
-    "explanation": "The burst-relay nodes within the PAMC Yatiri network are used to facilitate line-of-comms for cell-led operations, with each cell-led operation requiring line-of-comms to at least 2 nodes."
+    "question_text": "What is the protocol for coordinating operations with Cell Cóndor, a Mendoza-based operator?",
+    "option_a": "No coordination is required",
+    "option_b": "SLATEFALL coordinates entry with Cell Cóndor",
+    "option_c": "Cell Cóndor coordinates entry with SLATEFALL",
+    "option_d": "The Director-General must authorize all operations",
+    "correct_answer": "B",
+    "explanation": "According to Section 8.8, formal coordination agreements govern the overlap between the asset's territory and Cell Cóndor's operations, and SLATEFALL is required to coordinate entry with Cell Cóndor."
   },
   {
     "section_id": "8",
-    "question_text": "What can be inferred about the level of trust between SLATEFALL and its allies based on the territorial agreements?",
-    "option_a": "There is a high level of distrust, with limited coordination agreements",
-    "option_b": "There is a moderate level of trust, with some coordination agreements in place",
-    "option_c": "There is a high level of trust, with formal coordination agreements governing overlaps",
-    "option_d": "There is no indication of trust or coordination between SLATEFALL and its allies",
+    "question_text": "What can be inferred about the asset's operational territory based on the information provided?",
+    "option_a": "The asset is authorized to operate in all of South America",
+    "option_b": "The asset's operational territory is limited to Chile and Argentina",
+    "option_c": "The asset's operational territory spans approximately 6.8 million km², encompassing several western and southern Andean states",
+    "option_d": "The asset is not authorized to operate in any country",
     "correct_answer": "C",
-    "explanation": "The presence of formal coordination agreements governing overlaps between SLATEFALL's territory and that of other PAMC and partner-organization operators suggests a high level of trust between SLATEFALL and its allies."
+    "explanation": "According to Section 8.5, the asset's authorized operational territory spans approximately 6.8 million km², encompassing several western and southern Andean states, including Chile, Bolivia, Peru, Argentina, and Ecuador."
   }
 ]

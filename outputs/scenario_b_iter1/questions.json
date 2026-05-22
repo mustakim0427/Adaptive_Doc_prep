@@ -1,102 +1,102 @@
 [
   {
     "section_id": "5",
-    "question_text": "What is the primary principle behind the Doctrine of Sequential Suspension?",
-    "option_a": "Suspension is a continuous capability",
-    "option_b": "Suspension is a decisive resource, not a continuous capability",
-    "option_c": "Sequence does not determine lethality",
-    "option_d": "Acquisition is not a vulnerability",
+    "question_text": "What is the core principle of the Doctrine of Sequential Suspension regarding suspension as a resource?",
+    "option_a": "Suspension is a continuous capability that can be used at any time",
+    "option_b": "Suspension is a decisive resource, not a continuous capability, and should be treated as ammunition",
+    "option_c": "Suspension can only be used in emergency situations",
+    "option_d": "Suspension is only available for Tier 1 threats",
     "correct_answer": "B",
-    "explanation": "The Doctrine of Sequential Suspension rests on six core principles, with the first principle stating that suspension is a decisive resource, not a continuous capability, emphasizing the importance of treating each activation as ammunition."
+    "explanation": "The Doctrine of Sequential Suspension states that suspension is a decisive resource, not a continuous capability, and should be treated as ammunition, emphasizing the importance of using it strategically."
   },
   {
     "section_id": "5",
-    "question_text": "What is the maximum number of activations allowed per 60-second window according to the Three-Two-One Rule?",
-    "option_a": "2",
-    "option_b": "3",
-    "option_c": "4",
-    "option_d": "5",
+    "question_text": "What is the maximum number of activations permitted per 60-second window according to the Three-Two-One Rule?",
+    "option_a": "2 activations",
+    "option_b": "3 activations",
+    "option_c": "4 activations",
+    "option_d": "5 activations",
     "correct_answer": "B",
-    "explanation": "The Three-Two-One Rule states that there should be three activations maximum per 60-second window, two active sightlines maintained at any moment, and one pre-anchored extraction route held in reserve."
+    "explanation": "The Three-Two-One Rule states that the maximum number of activations permitted per 60-second window is 3, with 2 active sightlines maintained at any moment and 1 pre-anchored extraction route held in reserve."
   },
   {
     "section_id": "5",
     "question_text": "What is the required engagement protocol for Tier 3 threats?",
     "option_a": "Solo, full authority",
-    "option_b": "Cell required, lead authority, with relaxed Three-Two-One Rule",
-    "option_c": "Cell required, lead authority, with strict Three-Two-One Rule enforcement",
-    "option_d": "Cell + auxiliary cell, Director's authorization required",
+    "option_b": "Solo or cell, full authority",
+    "option_c": "Cell required, lead authority, with the Three-Two-One Rule strictly enforced",
+    "option_d": "Cell required, mass-cooldown protocol",
     "correct_answer": "C",
-    "explanation": "For Tier 3 threats, the engagement protocol requires a cell, with lead authority, and the Three-Two-One Rule must be enforced strictly."
+    "explanation": "For Tier 3 threats, the engagement protocol requires a cell, with lead authority, and the Three-Two-One Rule must be strictly enforced, ensuring a coordinated and disciplined approach to the engagement."
   },
   {
     "section_id": "5",
-    "question_text": "What is the maximum number of objects that can be held simultaneously using the Suspended Field technique?",
-    "option_a": "2",
-    "option_b": "3",
-    "option_c": "4",
-    "option_d": "5",
+    "question_text": "What is the primary advantage of the Tail-Strike Technique?",
+    "option_a": "It allows for a faster strike",
+    "option_b": "It enables a more precise strike",
+    "option_c": "It makes adversary counter-prediction of trajectory nearly impossible",
+    "option_d": "It increases the range of the strike",
     "correct_answer": "C",
-    "explanation": "The Suspended Field technique allows the asset to hold a maximum of 4 low-mass objects simultaneously, matching the available activations within a 60-s window minus a 1-suspension reserve."
+    "explanation": "The Tail-Strike Technique exploits Tail Momentum to deliver compounded impacts, making it difficult for adversaries to predict the trajectory of the strike, thereby gaining a tactical advantage."
   },
   {
     "section_id": "5",
-    "question_text": "What is the civilian collateral threshold below which the asset is empowered to abort engagement?",
-    "option_a": "70% confidence",
-    "option_b": "80% confidence",
-    "option_c": "90% confidence",
-    "option_d": "95% confidence",
-    "correct_answer": "B",
-    "explanation": "PAMC Standing Order 9 specifies a zero-tolerance threshold below 80% confidence that no civilian harm will occur from any planned activation, empowering the asset to abort engagement at her sole discretion if civilian risk exceeds this threshold."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What is the primary purpose of the micro-cache network maintained by the asset?",
-    "option_a": "To store sensitive documents and equipment",
-    "option_b": "To provide a means of emergency communication and supply",
-    "option_c": "To serve as a safehouse for the asset and other operatives",
-    "option_d": "To gather intelligence on potential targets",
-    "correct_answer": "B",
-    "explanation": "The micro-cache network is designed to provide a standardized set of supplies, including food, medical equipment, and communication devices, to support the asset's operations in the field."
-  },
-  {
-    "section_id": "8",
-    "question_text": "Which of the following is a restricted zone within the asset's operational territory?",
-    "option_a": "Salar de Atacama",
-    "option_b": "Salar de Uyuni Sector 4",
-    "option_c": "Easter Island",
-    "option_d": "All of the above",
+    "question_text": "What is the civilian collateral threshold specified in PAMC Standing Order 9?",
+    "option_a": "50% confidence that no civilian harm will occur",
+    "option_b": "60% confidence that no civilian harm will occur",
+    "option_c": "70% confidence that no civilian harm will occur",
+    "option_d": "80% confidence that no civilian harm will occur",
     "correct_answer": "D",
-    "explanation": "All of the options listed are restricted zones within the asset's operational territory, each with its own specific reason for restriction."
+    "explanation": "PAMC Standing Order 9 specifies a zero-tolerance threshold, requiring at least 80% confidence that no civilian harm will occur from any planned activation, emphasizing the importance of protecting civilians."
   },
   {
     "section_id": "8",
-    "question_text": "What is the approximate size of the asset's authorized operational territory?",
-    "option_a": "1 million km²",
-    "option_b": "3 million km²",
-    "option_c": "6.8 million km²",
-    "option_d": "10 million km²",
-    "correct_answer": "C",
-    "explanation": "The asset's operational territory spans approximately 6.8 million km², covering parts of several countries in the Andean region."
-  },
-  {
-    "section_id": "8",
-    "question_text": "How often are the locations of the micro-caches rotated?",
-    "option_a": "Every 6 months",
-    "option_b": "Every 12 months",
-    "option_c": "Every 24 months",
-    "option_d": "Every 36 months",
+    "question_text": "What is the primary function of Cuartel Valparaíso?",
+    "option_a": "Field office for Bolivian altiplano operations",
+    "option_b": "Logistics-only annex for southern operations",
+    "option_c": "PAMC Headquarters",
+    "option_d": "Primary operational base for the asset",
     "correct_answer": "D",
-    "explanation": "The locations of the micro-caches are rotated every 36 months, with the current placements having been finalized in 2024 and scheduled for review in 2027."
+    "explanation": "Cuartel Valparaíso is designated as the asset's primary operational base, serving as the PAMC South Cone Headquarters."
   },
   {
     "section_id": "8",
-    "question_text": "What is the name of the primary base used by the asset, and what is its location?",
-    "option_a": "Cuartel Valparaíso, located in Lima",
-    "option_b": "Edificio Marasol, located in Valparaíso",
-    "option_c": "Cuartel Valparaíso, located in Valparaíso",
-    "option_d": "Oficina Tarija, located in La Paz",
+    "question_text": "What is the purpose of auditing safehouse provisioning semi-annually?",
+    "option_a": "To reduce the amount of supplies stored at each safehouse",
+    "option_b": "To ensure that each safehouse has a unique set of supplies",
+    "option_c": "To verify that the standardized provisioning standard is being maintained",
+    "option_d": "To increase the number of safehouses in the operational territory",
     "correct_answer": "C",
-    "explanation": "The primary base used by the asset is Cuartel Valparaíso, which is located in Valparaíso, Chile, and serves as the PAMC South Cone Headquarters."
+    "explanation": "Auditing safehouse provisioning semi-annually ensures that each safehouse maintains the standardized provisioning standard, which includes supplies such as rations, comms units, and medical kits."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the purpose of rotating micro-cache locations every 36 months?",
+    "option_a": "To reduce the number of caches in the network",
+    "option_b": "To increase the amount of supplies stored at each cache",
+    "option_c": "To prevent the caches from being compromised by external parties",
+    "option_d": "To reduce the distance between caches",
+    "correct_answer": "C",
+    "explanation": "Rotating micro-cache locations every 36 months helps to prevent the caches from being compromised by external parties, maintaining the security and effectiveness of the micro-cache network."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the extent of the asset's authorized operational territory in Peru?",
+    "option_a": "Full territory, including offshore islands",
+    "option_b": "Full territory south of 5°S latitude",
+    "option_c": "Full territory south of 10°S latitude",
+    "option_d": "Provinces of Azuay, Cañar, and Loja only",
+    "correct_answer": "C",
+    "explanation": "The asset's authorized operational territory in Peru includes the full territory south of 10°S latitude, while the area north of this latitude is not included."
+  },
+  {
+    "section_id": "8",
+    "question_text": "Why is the Cerro Castillo exclusion ring restricted to the asset?",
+    "option_a": "Due to an ongoing classified PAMC investigation",
+    "option_b": "Due to jurisdictional issues with the Chilean government",
+    "option_c": "For psychological reasons, based on a CBMP recommendation",
+    "option_d": "Due to the presence of a rival operative in the area",
+    "correct_answer": "C",
+    "explanation": "The Cerro Castillo exclusion ring is restricted to the asset for psychological reasons, based on a CBMP recommendation since 2020, and the asset has not entered the area since the 2018 incident."
   }
 ]

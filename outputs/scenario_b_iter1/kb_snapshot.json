@@ -1,169 +1,93 @@
 {
-  "snapshot_at_session": 3,
+  "snapshot_at_session": 1,
   "recent_sessions": [
-    {
-      "session_id": 3,
-      "section_ids": "5,8",
-      "created_at": "2026-05-22T23:38:38.144227",
-      "total_questions": 10,
-      "correct_count": 5,
-      "wrong_count": 5,
-      "questions": [
-        {
-          "id": 8,
-          "section_id": "5",
-          "question_text": "What is the primary principle behind the Doctrine of Sequential Suspension?",
-          "correct_answer": "B",
-          "user_answer": "B",
-          "is_correct": true
-        },
-        {
-          "id": 9,
-          "section_id": "5",
-          "question_text": "What is the maximum number of activations allowed per 60-second window according to the Three-Two-One Rule?",
-          "correct_answer": "B",
-          "user_answer": "A",
-          "is_correct": false
-        },
-        {
-          "id": 10,
-          "section_id": "5",
-          "question_text": "What is the required engagement protocol for Tier 3 threats?",
-          "correct_answer": "C",
-          "user_answer": "C",
-          "is_correct": true
-        },
-        {
-          "id": 11,
-          "section_id": "5",
-          "question_text": "What is the maximum number of objects that can be held simultaneously using the Suspended Field technique?",
-          "correct_answer": "C",
-          "user_answer": "C",
-          "is_correct": true
-        },
-        {
-          "id": 12,
-          "section_id": "5",
-          "question_text": "What is the civilian collateral threshold below which the asset is empowered to abort engagement?",
-          "correct_answer": "B",
-          "user_answer": "A",
-          "is_correct": false
-        },
-        {
-          "id": 13,
-          "section_id": "8",
-          "question_text": "What is the primary purpose of the micro-cache network maintained by the asset?",
-          "correct_answer": "B",
-          "user_answer": "B",
-          "is_correct": true
-        },
-        {
-          "id": 14,
-          "section_id": "8",
-          "question_text": "Which of the following is a restricted zone within the asset's operational territory?",
-          "correct_answer": "D",
-          "user_answer": "D",
-          "is_correct": true
-        },
-        {
-          "id": 15,
-          "section_id": "8",
-          "question_text": "What is the approximate size of the asset's authorized operational territory?",
-          "correct_answer": "C",
-          "user_answer": "A",
-          "is_correct": false
-        },
-        {
-          "id": 16,
-          "section_id": "8",
-          "question_text": "How often are the locations of the micro-caches rotated?",
-          "correct_answer": "D",
-          "user_answer": "A",
-          "is_correct": false
-        },
-        {
-          "id": 17,
-          "section_id": "8",
-          "question_text": "What is the name of the primary base used by the asset, and what is its location?",
-          "correct_answer": "C",
-          "user_answer": "B",
-          "is_correct": false
-        }
-      ]
-    },
-    {
-      "session_id": 2,
-      "section_ids": "1,2",
-      "created_at": "2026-05-22T13:09:08.574888",
-      "total_questions": 6,
-      "correct_count": 5,
-      "wrong_count": 1,
-      "questions": [
-        {
-          "id": 2,
-          "section_id": "1",
-          "question_text": "What is the significance of SLATEFALL's registry threat-to-handler rating of 0.7 / 5?",
-          "correct_answer": "C",
-          "user_answer": "C",
-          "is_correct": true
-        },
-        {
-          "id": 3,
-          "section_id": "1",
-          "question_text": "What can be inferred about SLATEFALL's language proficiency based on the provided information?",
-          "correct_answer": "D",
-          "user_answer": "D",
-          "is_correct": true
-        },
-        {
-          "id": 4,
-          "section_id": "1",
-          "question_text": "Why is SLATEFALL's public status unusual among PAMC Class A operatives?",
-          "correct_answer": "D",
-          "user_answer": "C",
-          "is_correct": false
-        },
-        {
-          "id": 5,
-          "section_id": "2",
-          "question_text": "What happens to an object's inertial mass when it is affected by the Inertial Suspension power?",
-          "correct_answer": "B",
-          "user_answer": "B",
-          "is_correct": true
-        },
-        {
-          "id": 6,
-          "section_id": "2",
-          "question_text": "What is the minimum time required for the asset to focus on a target and activate the Inertial Suspension power?",
-          "correct_answer": "B",
-          "user_answer": "B",
-          "is_correct": true
-        },
-        {
-          "id": 7,
-          "section_id": "2",
-          "question_text": "What is the controlled mass ceiling for the Inertial Suspension power under standard operational conditions?",
-          "correct_answer": "C",
-          "user_answer": "C",
-          "is_correct": true
-        }
-      ]
-    },
     {
       "session_id": 1,
       "section_ids": "5,8",
-      "created_at": "2026-05-21T13:49:21.439410",
-      "total_questions": 1,
-      "correct_count": 0,
-      "wrong_count": 1,
+      "created_at": "2026-05-23T02:54:26.796369",
+      "total_questions": 10,
+      "correct_count": 7,
+      "wrong_count": 3,
       "questions": [
         {
           "id": 1,
           "section_id": "5",
-          "question_text": "What is the operational range of SLATEFALL?",
+          "question_text": "What is the core principle of the Doctrine of Sequential Suspension regarding suspension as a resource?",
           "correct_answer": "B",
+          "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "id": 2,
+          "section_id": "5",
+          "question_text": "What is the maximum number of activations permitted per 60-second window according to the Three-Two-One Rule?",
+          "correct_answer": "B",
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "id": 3,
+          "section_id": "5",
+          "question_text": "What is the required engagement protocol for Tier 3 threats?",
+          "correct_answer": "C",
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "id": 4,
+          "section_id": "5",
+          "question_text": "What is the primary advantage of the Tail-Strike Technique?",
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "id": 5,
+          "section_id": "5",
+          "question_text": "What is the civilian collateral threshold specified in PAMC Standing Order 9?",
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true
+        },
+        {
+          "id": 6,
+          "section_id": "8",
+          "question_text": "What is the primary function of Cuartel Valparaíso?",
+          "correct_answer": "D",
           "user_answer": "A",
           "is_correct": false
+        },
+        {
+          "id": 7,
+          "section_id": "8",
+          "question_text": "What is the purpose of auditing safehouse provisioning semi-annually?",
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "id": 8,
+          "section_id": "8",
+          "question_text": "What is the purpose of rotating micro-cache locations every 36 months?",
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "id": 9,
+          "section_id": "8",
+          "question_text": "What is the extent of the asset's authorized operational territory in Peru?",
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "id": 10,
+          "section_id": "8",
+          "question_text": "Why is the Cerro Castillo exclusion ring restricted to the asset?",
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true
         }
       ]
     }
