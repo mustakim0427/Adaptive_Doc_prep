@@ -4,15 +4,15 @@
     {
       "session_id": 1,
       "section_ids": "5,8",
-      "created_at": "2026-05-23T02:54:26.796369",
+      "created_at": "2026-05-24T04:48:03.913068",
       "total_questions": 10,
-      "correct_count": 7,
-      "wrong_count": 3,
+      "correct_count": 8,
+      "wrong_count": 2,
       "questions": [
         {
           "id": 1,
           "section_id": "5",
-          "question_text": "What is the core principle of the Doctrine of Sequential Suspension regarding suspension as a resource?",
+          "question_text": "What is the primary focus of the Doctrine of Sequential Suspension?",
           "correct_answer": "B",
           "user_answer": "B",
           "is_correct": true
@@ -20,47 +20,47 @@
         {
           "id": 2,
           "section_id": "5",
-          "question_text": "What is the maximum number of activations permitted per 60-second window according to the Three-Two-One Rule?",
-          "correct_answer": "B",
-          "user_answer": "D",
+          "question_text": "What is the purpose of the Three-Two-One Rule in Cell Halcón operations?",
+          "correct_answer": "C",
+          "user_answer": "B",
           "is_correct": false
         },
         {
           "id": 3,
           "section_id": "5",
-          "question_text": "What is the required engagement protocol for Tier 3 threats?",
-          "correct_answer": "C",
+          "question_text": "What is the primary difference between Tier 1 and Tier 3 engagement protocols?",
+          "correct_answer": "D",
           "user_answer": "D",
-          "is_correct": false
+          "is_correct": true
         },
         {
           "id": 4,
           "section_id": "5",
-          "question_text": "What is the primary advantage of the Tail-Strike Technique?",
-          "correct_answer": "C",
-          "user_answer": "C",
+          "question_text": "What is the key benefit of the Tail-Strike Technique?",
+          "correct_answer": "D",
+          "user_answer": "D",
           "is_correct": true
         },
         {
           "id": 5,
           "section_id": "5",
-          "question_text": "What is the civilian collateral threshold specified in PAMC Standing Order 9?",
-          "correct_answer": "D",
-          "user_answer": "D",
+          "question_text": "What is the primary consideration for the asset when deciding whether to abort an engagement due to civilian risk?",
+          "correct_answer": "C",
+          "user_answer": "C",
           "is_correct": true
         },
         {
           "id": 6,
           "section_id": "8",
-          "question_text": "What is the primary function of Cuartel Valparaíso?",
-          "correct_answer": "D",
-          "user_answer": "A",
+          "question_text": "What is the total floor area of Cuartel Valparaíso, the asset's primary operational base?",
+          "correct_answer": "C",
+          "user_answer": "B",
           "is_correct": false
         },
         {
           "id": 7,
           "section_id": "8",
-          "question_text": "What is the purpose of auditing safehouse provisioning semi-annually?",
+          "question_text": "What is the function of Edificio Marasol, one of the asset's secondary bases?",
           "correct_answer": "C",
           "user_answer": "C",
           "is_correct": true
@@ -68,23 +68,23 @@
         {
           "id": 8,
           "section_id": "8",
-          "question_text": "What is the purpose of rotating micro-cache locations every 36 months?",
-          "correct_answer": "C",
-          "user_answer": "C",
+          "question_text": "What is the standardized provisioning standard for each of the asset's safehouses?",
+          "correct_answer": "B",
+          "user_answer": "B",
           "is_correct": true
         },
         {
           "id": 9,
           "section_id": "8",
           "question_text": "What is the extent of the asset's authorized operational territory in Peru?",
-          "correct_answer": "C",
-          "user_answer": "C",
+          "correct_answer": "D",
+          "user_answer": "D",
           "is_correct": true
         },
         {
           "id": 10,
           "section_id": "8",
-          "question_text": "Why is the Cerro Castillo exclusion ring restricted to the asset?",
+          "question_text": "Why is the Cerro Castillo exclusion ring a restricted zone within the asset's operational territory?",
           "correct_answer": "C",
           "user_answer": "C",
           "is_correct": true

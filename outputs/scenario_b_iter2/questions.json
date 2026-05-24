@@ -1,152 +1,152 @@
 [
   {
     "section_id": "6",
-    "question_text": "What is the primary role of the Cooperative Bureau of Metahuman Physics (CBMP) within the Pan-American Metahuman Cooperative (PAMC)?",
-    "option_a": "To oversee the operations of all metahuman cells",
-    "option_b": "To conduct research and development in metahuman physics",
-    "option_c": "To provide medical support to metahuman operatives",
-    "option_d": "To coordinate with external civilian allies",
+    "question_text": "What is the primary role of the Cooperative Bureau of Metahuman Physics (CBMP) in the PAMC?",
+    "option_a": "To oversee the Operations Directorate",
+    "option_b": "To conduct research on metahuman physics",
+    "option_c": "To manage the Logistics Directorate",
+    "option_d": "To handle the Behavioral Health Directorate",
     "correct_answer": "B",
-    "explanation": "The CBMP is mentioned as one of the four directorates of the PAMC, and Dr. Léon Marrón-Saavedra, a senior scientist at the CBMP, conducts annual scientific re-evaluations of the asset's power, indicating a focus on research and development in metahuman physics."
+    "explanation": "The CBMP is responsible for conducting research on metahuman physics, as indicated by the presence of a senior scientist like Dr. Léon Marrón-Saavedra, who co-authored the Calvache–Marrón Equations."
   },
   {
     "section_id": "6",
-    "question_text": "What is the significance of Cuartel Valparaíso in relation to the PAMC?",
-    "option_a": "It is the headquarters of the PAMC",
-    "option_b": "It is a PAMC safehouse",
-    "option_c": "It is a former affiliation of the asset",
-    "option_d": "The text does not provide information about Cuartel Valparaíso",
+    "question_text": "What is the significance of the Three-Two-One Rule in the context of Cell Halcón operations?",
+    "option_a": "It determines the cell's engagement protocol for Tier 4 operations",
+    "option_b": "It outlines the procedure for metahuman physiological analysis",
+    "option_c": "It specifies the minimum number of operatives required for a mission",
+    "option_d": "It is not mentioned in the provided study material",
     "correct_answer": "D",
-    "explanation": "The provided text does not mention Cuartel Valparaíso, suggesting that it is not a relevant location within the given context."
+    "explanation": "The Three-Two-One Rule is not explicitly mentioned in the provided study material, making it impossible to determine its significance without further context."
   },
   {
     "section_id": "6",
-    "question_text": "What is the relationship between the asset and Comandante Ezequiel Ovalle-Garrido?",
-    "option_a": "Adversarial, with a history of conflict",
-    "option_b": "Professional, with a long-standing relationship",
-    "option_c": "Personal, with a family connection",
-    "option_d": "Distant, with minimal interaction",
+    "question_text": "What is the metahuman classification of Lt. Solène Bauer-Cortez, and what is the significance of this classification?",
+    "option_a": "Class A-2, allowing her to perceive electromagnetic emissions up to 6 GHz",
+    "option_b": "Class C-1, enabling her to perceive electromagnetic emissions from 30 Hz to 6 GHz within 80 m",
+    "option_c": "Class B-1, granting her enhanced strength and agility",
+    "option_d": "Class D-1, allowing her to manipulate electromagnetic fields",
     "correct_answer": "B",
-    "explanation": "Comandante Ovalle-Garrido is described as having a long-standing professional relationship with the asset, dating back to 2014, and is authorized to coordinate Chilean Army support for PAMC operations in Chilean territory."
+    "explanation": "Lt. Solène Bauer-Cortez is classified as a Class C-1 metahuman, which means she can perceive electromagnetic emissions from 30 Hz to 6 GHz within a range of 80 m, making her a valuable asset for technical operations."
   },
   {
     "section_id": "6",
-    "question_text": "What is the protocol for engaging Tier 3 threats, according to the provided text?",
-    "option_a": "The text explicitly outlines a specific engagement protocol for Tier 3 threats",
-    "option_b": "The text implies a flexible approach to engaging Tier 3 threats, depending on the situation",
-    "option_c": "The text does not provide information on engagement protocols for Tier 3 threats",
-    "option_d": "The text recommends avoiding engagement with Tier 3 threats whenever possible",
-    "correct_answer": "C",
-    "explanation": "The provided text does not mention a specific engagement protocol for Tier 3 threats, suggesting that this information is not available within the given context."
-  },
-  {
-    "section_id": "6",
-    "question_text": "What is the Three-Two-One Rule, and what does it govern?",
-    "option_a": "The Three-Two-One Rule governs the maximum number of metahuman activations per 60-second window, allowing up to 3 activations",
-    "option_b": "The Three-Two-One Rule governs the minimum number of operatives required for a Tier 4 engagement, requiring at least 3 operatives",
-    "option_c": "The Three-Two-One Rule governs the maximum number of activations permitted per 60-second window, but the exact number is not specified in the text",
-    "option_d": "The Three-Two-One Rule governs the rotation of Cell Halcón members, requiring a minimum of 3 years of service before rotation",
-    "correct_answer": "C",
-    "explanation": "The text mentions the Three-Two-One Rule but does not provide specific details on what it governs or the exact numbers, suggesting that this information is not available within the given context."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What is the primary purpose of Cuartel Valparaíso?",
-    "option_a": "To serve as a logistics-only annex",
-    "option_b": "To function as the asset's primary operational base and PAMC South Cone Headquarters",
-    "option_c": "To act as a field office for Bolivian altiplano operations",
-    "option_d": "To operate as a regional CBMP medical office only",
-    "correct_answer": "B",
-    "explanation": "Cuartel Valparaíso is designated as the asset's primary operational base and PAMC South Cone Headquarters, indicating its primary purpose is to serve as the main base of operations."
-  },
-  {
-    "section_id": "8",
-    "question_text": "How often are the micro-cache locations rotated?",
-    "option_a": "Every 12 months",
-    "option_b": "Every 24 months",
-    "option_c": "Every 36 months",
-    "option_d": "Every 48 months",
-    "correct_answer": "C",
-    "explanation": "According to the study material, cache locations are rotated every 36 months, with current placements finalized in 2024 and set to be reviewed in 2027."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What is the maximum number of personnel that can be accommodated at Cuartel Valparaíso?",
-    "option_a": "30 personnel",
-    "option_b": "38 personnel",
-    "option_c": "47 personnel",
-    "option_d": "142 personnel",
-    "correct_answer": "D",
-    "explanation": "While Cuartel Valparaíso has a residential capacity of 38 personnel, its working capacity is 142 personnel, making this the maximum number of personnel that can be accommodated."
-  },
-  {
-    "section_id": "8",
-    "question_text": "Which of the following is a restricted zone within the asset's operational territory?",
-    "option_a": "Salar de Atacama",
-    "option_b": "Salar de Uyuni Sector 4",
-    "option_c": "Lake Titicaca",
-    "option_d": "The Galapagos Islands",
-    "correct_answer": "B",
-    "explanation": "Salar de Uyuni Sector 4 is listed as a restricted zone due to an ongoing classified PAMC investigation since 2023, requiring limited access and prior coordination."
-  },
-  {
-    "section_id": "8",
-    "question_text": "What type of agreement governs the overlap between the asset's territory and Cell Cóndor's operations?",
-    "option_a": "Informal understanding",
-    "option_b": "Formal coordination agreement",
-    "option_c": "Bilateral cooperation framework",
-    "option_d": "Observation-only sharing",
-    "correct_answer": "B",
-    "explanation": "The study material states that formal coordination agreements govern the overlaps between the asset's territory and other operators, including Cell Cóndor."
-  },
-  {
-    "section_id": "9",
-    "question_text": "What is the primary purpose of documenting case files in the PAMC format?",
-    "option_a": "To track adversary movements and patterns",
-    "option_b": "To evaluate the effectiveness of engagement protocols and identify areas for improvement",
-    "option_c": "To monitor the performance of individual operatives",
-    "option_d": "To classify and store sensitive information",
-    "correct_answer": "B",
-    "explanation": "The primary purpose of documenting case files is to evaluate the effectiveness of engagement protocols and identify areas for improvement, as seen in the various case files that highlight the outcomes, casualties, and post-action notes."
-  },
-  {
-    "section_id": "9",
-    "question_text": "What can be inferred about the Tier 3 threat engagement protocol based on the case files provided?",
-    "option_a": "It requires a minimum of two operatives to engage the threat",
-    "option_b": "It involves the use of specialized equipment, such as high-lux operation kits",
-    "option_c": "It has a high risk of civilian casualties, as seen in the Quebrantadero Showdown case",
-    "option_d": "It is not clearly defined in the provided case files",
-    "correct_answer": "D",
-    "explanation": "The case files do not provide a clear definition of the Tier 3 threat engagement protocol, but rather highlight the catastrophic outcome of the Quebrantadero Showdown case, which was classified as a Tier-3 threat."
-  },
-  {
-    "section_id": "9",
-    "question_text": "What is the significance of the Cuartel Valparaíso in the context of the provided case files?",
-    "option_a": "It is a PAMC headquarters location",
-    "option_b": "It is a training facility for operatives",
-    "option_c": "It is a key location for Concession affiliate activity",
-    "option_d": "It is not mentioned in the provided case files",
-    "correct_answer": "D",
-    "explanation": "The Cuartel Valparaíso is not mentioned in the provided case files, and its significance or primary function cannot be inferred from the available information."
-  },
-  {
-    "section_id": "9",
-    "question_text": "According to the Three-Two-One Rule, what is the maximum number of activations permitted per 60-second window?",
-    "option_a": "1 activation per 60 seconds",
-    "option_b": "2 activations per 60 seconds, with a 30-second cooldown",
-    "option_c": "3 activations per 60 seconds, with a 20-second cooldown",
-    "option_d": "The rule is not clearly defined in the provided case files",
-    "correct_answer": "D",
-    "explanation": "The Three-Two-One Rule is mentioned in the context of the case files, but its specifics, including the maximum number of activations permitted per 60-second window, are not clearly defined in the provided information."
-  },
-  {
-    "section_id": "9",
-    "question_text": "What can be inferred about the Drift Read ability based on the case files provided?",
-    "option_a": "It is a newly emerged ability that allows the asset to detect and interdict incoming threats",
-    "option_b": "It is a well-established ability that has been used in multiple operations",
-    "option_c": "It is a ability that can only be used in conjunction with other assets",
-    "option_d": "It is a ability that is not effective in combat situations",
+    "question_text": "Who is the direct chain-of-command superior of the asset, and what is the extent of their authority?",
+    "option_a": "Director Aída Salvatierra-Bunge, with the authority to override all engagement decisions",
+    "option_b": "Director-General María-Elena Espósito-Tagle, with the authority to override all operational decisions",
+    "option_c": "Dr. Léon Marrón-Saavedra, with the authority to conduct scientific re-evaluations of the asset's power",
+    "option_d": "Dr. Maite Borghi-Castelnuovo, with the authority to provide mental health services to the asset",
     "correct_answer": "A",
-    "explanation": "The case files mention the Drift Read ability as a newly emerged ability that was first operationally validated in the Atacama Altiplano case, and it is described as the asset's ability to detect and interdict incoming threats."
+    "explanation": "Director Aída Salvatierra-Bunge is the direct chain-of-command superior of the asset, and she has the authority to override all engagement decisions except those made at the Director-General level."
+  },
+  {
+    "section_id": "6",
+    "question_text": "What is the total floor area of the primary operational base of the asset, Cuartel Valparaíso?",
+    "option_a": "10,000 square meters",
+    "option_b": "20,000 square meters",
+    "option_c": "The study material does not provide this information",
+    "option_d": "50,000 square meters",
+    "correct_answer": "C",
+    "explanation": "The study material does not provide information about the total floor area of Cuartel Valparaíso, making it impossible to determine the correct answer."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the significance of the total floor area of Cuartel Valparaíso in relation to the asset's operations?",
+    "option_a": "It determines the number of personnel that can be accommodated",
+    "option_b": "It affects the operational security level of the facility",
+    "option_c": "It influences the type of equipment that can be stored",
+    "option_d": "It is irrelevant to the asset's operations",
+    "correct_answer": "A",
+    "explanation": "The total floor area of Cuartel Valparaíso is 4,820 m², which suggests that it can accommodate a certain number of personnel, as indicated by the personnel capacity parameter, making option A the most relevant answer"
+  },
+  {
+    "section_id": "8",
+    "question_text": "How does the Three-Two-One Rule relate to Cell Halcón's operations, given the context of the micro-cache network?",
+    "option_a": "It dictates the ratio of cache locations to personnel",
+    "option_b": "It governs the frequency of cache rotations",
+    "option_c": "It is unrelated to the micro-cache network",
+    "option_d": "It determines the number of backup comms units per cache",
+    "correct_answer": "B",
+    "explanation": "Although the Three-Two-One Rule is not explicitly mentioned in the provided text, it can be inferred that it might be related to the frequency of cache rotations, given the mention of cache locations being rotated every 36 months, making option B a plausible answer"
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the primary function of the Edificio Marasol base?",
+    "option_a": "Field office for Bolivian altiplano operations",
+    "option_b": "Logistics-only annex for southern operations",
+    "option_c": "PAMC Headquarters where the asset rotates through quarterly for senior briefings",
+    "option_d": "Regional CBMP medical office",
+    "correct_answer": "C",
+    "explanation": "According to the study material, Edificio Marasol serves as the PAMC Headquarters, where the asset attends quarterly for senior briefings, making option C the correct answer"
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the significance of the 6.8 million km² operational territory in relation to the asset's authorized deployments?",
+    "option_a": "It marks the boundary beyond which the asset cannot operate without Director-General authorization",
+    "option_b": "It indicates the area where the asset has unlimited access",
+    "option_c": "It defines the region where the asset can operate only under specific conditions",
+    "option_d": "It is irrelevant to the asset's deployments",
+    "correct_answer": "A",
+    "explanation": "The 6.8 million km² operational territory serves as the authorized area for the asset's deployments, and any operations beyond this territory require Director-General authorization, making option A the correct answer"
+  },
+  {
+    "section_id": "8",
+    "question_text": "How does the asset's micro-cache network contribute to their operations, considering the context of Cuartel Valparaíso's total floor area?",
+    "option_a": "It provides a means for the asset to store equipment, which is not possible at Cuartel Valparaíso due to limited floor area",
+    "option_b": "It allows the asset to access resources and supplies across the operational territory, supplementing the capabilities of Cuartel Valparaíso",
+    "option_c": "It is an alternative to the safehouses, providing a more secure means of cover",
+    "option_d": "It is unrelated to the asset's operations at Cuartel Valparaíso",
+    "correct_answer": "B",
+    "explanation": "The micro-cache network enables the asset to access resources and supplies across the operational territory, which complements the capabilities of Cuartel Valparaíso, making option B the correct answer"
+  },
+  {
+    "section_id": "9",
+    "question_text": "What is the primary purpose of the uniform PAMC format in documenting case files?",
+    "option_a": "To classify cases as open, classified, or declassified",
+    "option_b": "To record the outcome of each case, including PAMC and adversary casualties",
+    "option_c": "To provide a standardized template for documenting case details, such as date, location, and outcome",
+    "option_d": "To evaluate the performance of operatives and assets in each case",
+    "correct_answer": "C",
+    "explanation": "The uniform PAMC format is used to provide a standardized template for documenting case details, making it easier to review and compare cases."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What can be inferred about the total floor area of Cuartel Valparaíso based on the provided case files?",
+    "option_a": "It is a large facility with multiple operational bases",
+    "option_b": "It is a small facility with limited operational capacity",
+    "option_c": "There is no information available about the total floor area of Cuartel Valparaíso",
+    "option_d": "It is the primary operational base for Cell Halcón",
+    "correct_answer": "C",
+    "explanation": "The provided case files do not mention the total floor area of Cuartel Valparaíso, making it impossible to infer any information about its size."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What is the significance of the Three-Two-One Rule in Cell Halcón operations, based on the context of the case files?",
+    "option_a": "It is a protocol for containing and neutralizing adversaries",
+    "option_b": "It is a rule for evaluating the performance of operatives and assets",
+    "option_c": "It is a guideline for conducting audits and counter-audits",
+    "option_d": "The context of the case files does not provide enough information to determine the significance of the Three-Two-One Rule",
+    "correct_answer": "D",
+    "explanation": "The case files do not provide enough information to determine the significance of the Three-Two-One Rule, making it impossible to infer its purpose or application."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What was the outcome of Case 2024-0202: Quebrantadero Showdown, and what were the consequences of this outcome?",
+    "option_a": "The outcome was Successful, with no civilian casualties",
+    "option_b": "The outcome was Pyrrhic, with some civilian injuries",
+    "option_c": "The outcome was Catastrophic, with 11 civilian deaths and 27 civilian injuries",
+    "option_d": "The outcome was Inconclusive, with no reported casualties",
+    "correct_answer": "C",
+    "explanation": "The outcome of Case 2024-0202 was Catastrophic, resulting in 11 civilian deaths and 27 civilian injuries, and leading to a formal inquiry and recommended protocol changes."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What can be inferred about the capabilities of Cell Halcón based on the case files, particularly in relation to the use of the Suspended Field?",
+    "option_a": "Cell Halcón has limited capabilities and is not effective in combat situations",
+    "option_b": "Cell Halcón has demonstrated full capability in combat situations, including the use of the Suspended Field",
+    "option_c": "Cell Halcón is primarily used for defensive operations and is not suited for offensive missions",
+    "option_d": "Cell Halcón is still in the experimental phase and has not been deployed in actual combat situations",
+    "correct_answer": "B",
+    "explanation": "The case files demonstrate that Cell Halcón has demonstrated full capability in combat situations, including the use of the Suspended Field, as seen in Case 2024-0034: Tarapacá Concession Raid."
   }
 ]

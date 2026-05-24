@@ -1,52 +1,52 @@
 [
   {
     "section_id": "8",
-    "question_text": "What type of zones are formally restricted within the asset's operational territory?",
-    "option_a": "Forbidden zones",
-    "option_b": "Danger zones",
-    "option_c": "Restricted and Forbidden zones",
-    "option_d": "Safe zones",
-    "correct_answer": "C",
-    "explanation": "According to Section 8.6, there are three zones within the asset's operational territory that are formally restricted, which include both restricted and forbidden zones."
+    "question_text": "What is the significance of the 6.8 million km² operational territory in relation to the asset's authorized deployments?",
+    "option_a": "It represents the total area where the asset can operate without any restrictions",
+    "option_b": "It denotes the area where the asset has to operate under Director-General authorization",
+    "option_c": "It is the area where the asset's micro-cache network is distributed",
+    "option_d": "It represents the area where the asset is authorized to operate, with some areas restricted or forbidden",
+    "correct_answer": "D",
+    "explanation": "The 6.8 million km² operational territory represents the area where the asset is authorized to operate, with some areas restricted or forbidden, as mentioned in section 8.5."
   },
   {
     "section_id": "8",
-    "question_text": "What is the primary purpose of the micro-cache network maintained by the asset?",
-    "option_a": "To store sensitive information",
-    "option_b": "To provide emergency supplies and equipment",
-    "option_c": "To serve as a communication relay",
-    "option_d": "To accommodate personnel",
+    "question_text": "How does the asset's micro-cache network contribute to their operations, considering the context of Cuartel Valparaíso's total floor area?",
+    "option_a": "The micro-cache network is used to store excess equipment from Cuartel Valparaíso",
+    "option_b": "The micro-cache network provides the asset with supplies and equipment in remote areas, reducing reliance on Cuartel Valparaíso",
+    "option_c": "The micro-cache network is used to transport personnel between Cuartel Valparaíso and other bases",
+    "option_d": "The micro-cache network is used to communicate with other PAMC operatives",
     "correct_answer": "B",
-    "explanation": "The micro-cache network is designed to provide the asset with emergency supplies and equipment, such as food, water, medical kits, and communication devices, in case of an emergency."
+    "explanation": "The micro-cache network provides the asset with supplies and equipment in remote areas, reducing reliance on Cuartel Valparaíso, which has limited storage capacity given its total floor area of 4,820 m²."
   },
   {
     "section_id": "8",
-    "question_text": "What is the significance of Cuartel Valparaíso in relation to the PAMC?",
-    "option_a": "It is the PAMC's primary headquarters",
-    "option_b": "It is the asset's personal residence",
-    "option_c": "It is the PAMC South Cone Headquarters and the asset's primary operational base",
-    "option_d": "It is a restricted zone",
+    "question_text": "What can be inferred about the total floor area of Cuartel Valparaíso based on the provided case files?",
+    "option_a": "It is insufficient for the asset's operational needs",
+    "option_b": "It is sufficient for the asset's operational needs, but requires frequent renovations",
+    "option_c": "It is sufficient for the asset's operational needs, with ample space for storage and personnel",
+    "option_d": "It is not possible to infer anything about the total floor area from the case files",
     "correct_answer": "C",
-    "explanation": "Cuartel Valparaíso is designated as the PAMC South Cone Headquarters and serves as the asset's primary operational base, making it a crucial location for the PAMC's operations in the region."
+    "explanation": "Given that Cuartel Valparaíso has a total floor area of 4,820 m², with a personnel capacity of 38 residential and 142 working, and various facilities such as a vehicle bay and helipad, it can be inferred that the total floor area is sufficient for the asset's operational needs."
   },
   {
     "section_id": "8",
-    "question_text": "What is the protocol for coordinating operations with Cell Cóndor, a Mendoza-based operator?",
-    "option_a": "No coordination is required",
-    "option_b": "SLATEFALL coordinates entry with Cell Cóndor",
-    "option_c": "Cell Cóndor coordinates entry with SLATEFALL",
-    "option_d": "The Director-General must authorize all operations",
+    "question_text": "What is the primary purpose of the uniform PAMC format in documenting case files?",
+    "option_a": "To ensure that all case files are easily accessible to all PAMC operatives",
+    "option_b": "To provide a standardized template for documenting case files, facilitating organization and review",
+    "option_c": "To restrict access to case files to only authorized personnel",
+    "option_d": "To eliminate the need for physical case files",
     "correct_answer": "B",
-    "explanation": "According to Section 8.8, formal coordination agreements govern the overlap between the asset's territory and Cell Cóndor's operations, and SLATEFALL is required to coordinate entry with Cell Cóndor."
+    "explanation": "The uniform PAMC format is used to provide a standardized template for documenting case files, facilitating organization and review, as seen in the provided case files."
   },
   {
     "section_id": "8",
-    "question_text": "What can be inferred about the asset's operational territory based on the information provided?",
-    "option_a": "The asset is authorized to operate in all of South America",
-    "option_b": "The asset's operational territory is limited to Chile and Argentina",
-    "option_c": "The asset's operational territory spans approximately 6.8 million km², encompassing several western and southern Andean states",
-    "option_d": "The asset is not authorized to operate in any country",
+    "question_text": "What is the significance of the Three-Two-One Rule in the context of Cell Halcón operations?",
+    "option_a": "It is a protocol for handling classified information",
+    "option_b": "It is a rule for determining the number of personnel required for a mission",
+    "option_c": "It is a guideline for maintaining operational security, but its specifics are not mentioned in the case files",
+    "option_d": "It is a procedure for conducting interrogations",
     "correct_answer": "C",
-    "explanation": "According to Section 8.5, the asset's authorized operational territory spans approximately 6.8 million km², encompassing several western and southern Andean states, including Chile, Bolivia, Peru, Argentina, and Ecuador."
+    "explanation": "The Three-Two-One Rule is mentioned in the context of restricted and forbidden zones, but its specifics are not provided in the case files, suggesting that it is a guideline for maintaining operational security."
   }
 ]

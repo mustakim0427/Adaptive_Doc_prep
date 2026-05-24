@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./outputs:/app/outputs
+      - ./knowledge_base.db:/app/knowledge_base.db
+    env_file:
+      - .env
