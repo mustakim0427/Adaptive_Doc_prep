@@ -25,6 +25,7 @@ This system:
 | PDF Parsing | PyMuPDF (fitz) | Fast, reliable, lightweight, direct library |
 | Database | SQLite | Zero setup, file-based, perfect for local project |
 | Orchestration | Raw API calls | Simple and direct, no unnecessary abstraction |
+| UI | Streamlit | Simple, fast to build, interactive web interface |
 
 ---
 
@@ -43,6 +44,7 @@ adaptive_doc_prep/
 ├── llm.py
 ├── prep_flow.py
 ├── main.py
+├── app.py
 ├── Dockerfile
 ├── docker-compose.yml
 ├── .env
@@ -74,8 +76,6 @@ Place `SLATEFALL_DOSSIER.pdf` inside the `data/` folder.
 ---
 
 ## Option 1 — Run With Docker (Recommended)
-
-This is the easiest way. Just one command runs everything.
 
 ### 1. Make sure Docker Desktop is running
 Download from https://www.docker.com/products/docker-desktop if needed.
@@ -126,7 +126,7 @@ source venv/bin/activate
 
 ### 3. Install dependencies
 ```bash
-pip install fastapi uvicorn pymupdf groq python-dotenv requests
+pip install fastapi uvicorn pymupdf groq python-dotenv requests streamlit
 ```
 
 ### 4. Start the server
@@ -138,7 +138,25 @@ Your API is now running at `http://127.0.0.1:8000` ✅
 
 ---
 
-## API Documentation
+## Using The Streamlit UI (Optional)
+
+Once the server is running (via Docker or uvicorn), open a new terminal and run:
+
+```bash
+streamlit run app.py
+```
+
+This opens a visual interface at `http://localhost:8501` where you can:
+- Select sections to study
+- Set number of questions
+- Start a study session with one click
+- View questions, scores and explanations
+- Check your weak areas
+- Run Scenario B with one click
+
+---
+
+## Using The API Directly (Without UI)
 
 Once the server is running, visit:
 ```
@@ -154,13 +172,13 @@ This gives you an interactive API explorer to test all endpoints.
 
 To ensure a clean run with no prior history:
 
-**With Docker:** Create a new empty database file and restart:
+**With Docker:**
 ```bash
 New-Item -Path "knowledge_base.db" -ItemType File -Force
 docker-compose up --build
 ```
 
-**Without Docker:** Delete the database file and restart the server:
+**Without Docker:**
 ```bash
 del knowledge_base.db
 uvicorn main:app --reload
@@ -169,11 +187,19 @@ uvicorn main:app --reload
 ---
 
 ### Scenario A — Cold start prep over two sections
+
+Via UI: Select sections 3 and 7 → click Start Study Session
+
+Via terminal:
 ```bash
 python -c "import requests; response = requests.post('http://127.0.0.1:8000/prep/start', json={'section_ids': ['3', '7'], 'num_questions': 5, 'simulate': True}); print(response.json())"
 ```
 
 ### Scenario B — Three consecutive iterations
+
+Via UI: Click ▶️ Run Scenario B button
+
+Via terminal:
 ```bash
 python -c "import requests; response = requests.post('http://127.0.0.1:8000/scenario-b', json={'num_questions': 5}); print(response.json())"
 ```

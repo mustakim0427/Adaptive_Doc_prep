@@ -4,15 +4,15 @@
     {
       "session_id": 3,
       "section_ids": "8",
-      "created_at": "2026-05-24T04:48:22.816015",
+      "created_at": "2026-05-24T09:10:31.228315",
       "total_questions": 5,
-      "correct_count": 2,
-      "wrong_count": 3,
+      "correct_count": 4,
+      "wrong_count": 1,
       "questions": [
         {
           "id": 26,
           "section_id": "8",
-          "question_text": "What is the significance of the 6.8 million km² operational territory in relation to the asset's authorized deployments?",
+          "question_text": "What is the primary purpose of the vehicle bay at Cuartel Valparaíso?",
           "correct_answer": "D",
           "user_answer": "D",
           "is_correct": true
@@ -20,49 +20,49 @@
         {
           "id": 27,
           "section_id": "8",
-          "question_text": "How does the asset's micro-cache network contribute to their operations, considering the context of Cuartel Valparaíso's total floor area?",
-          "correct_answer": "B",
-          "user_answer": "B",
+          "question_text": "What is the role of Edificio Marasol in the asset's operations?",
+          "correct_answer": "C",
+          "user_answer": "C",
           "is_correct": true
         },
         {
           "id": 28,
           "section_id": "8",
-          "question_text": "What can be inferred about the total floor area of Cuartel Valparaíso based on the provided case files?",
+          "question_text": "What is the significance of the 30-day rations provisioned in each safehouse?",
           "correct_answer": "C",
-          "user_answer": "B",
-          "is_correct": false
+          "user_answer": "C",
+          "is_correct": true
         },
         {
           "id": 29,
           "section_id": "8",
-          "question_text": "What is the primary purpose of the uniform PAMC format in documenting case files?",
-          "correct_answer": "B",
-          "user_answer": "C",
+          "question_text": "What is the extent of the asset's authorized operational territory in Peru?",
+          "correct_answer": "C",
+          "user_answer": "B",
           "is_correct": false
         },
         {
           "id": 30,
           "section_id": "8",
-          "question_text": "What is the significance of the Three-Two-One Rule in the context of Cell Halcón operations?",
-          "correct_answer": "C",
-          "user_answer": "B",
-          "is_correct": false
+          "question_text": "Why is the Cerro Castillo exclusion ring restricted to the asset?",
+          "correct_answer": "D",
+          "user_answer": "D",
+          "is_correct": true
         }
       ]
     },
     {
       "session_id": 2,
       "section_ids": "6,8,9",
-      "created_at": "2026-05-24T04:48:11.508883",
+      "created_at": "2026-05-24T09:10:21.086559",
       "total_questions": 15,
-      "correct_count": 8,
-      "wrong_count": 7,
+      "correct_count": 13,
+      "wrong_count": 2,
       "questions": [
         {
           "id": 11,
           "section_id": "6",
-          "question_text": "What is the primary role of the Cooperative Bureau of Metahuman Physics (CBMP) in the PAMC?",
+          "question_text": "What is the primary function of the building where the Pan-American Metahuman Cooperative is headquartered?",
           "correct_answer": "B",
           "user_answer": "B",
           "is_correct": true
@@ -70,31 +70,31 @@
         {
           "id": 12,
           "section_id": "6",
-          "question_text": "What is the significance of the Three-Two-One Rule in the context of Cell Halcón operations?",
-          "correct_answer": "D",
-          "user_answer": "A",
-          "is_correct": false
+          "question_text": "What can be inferred about the total floor area of Cuartel Valparaíso based on the provided information?",
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true
         },
         {
           "id": 13,
           "section_id": "6",
-          "question_text": "What is the metahuman classification of Lt. Solène Bauer-Cortez, and what is the significance of this classification?",
-          "correct_answer": "B",
-          "user_answer": "C",
+          "question_text": "What is the role of Sgt. Mateo Quispe-Linares in Cell Halcón?",
+          "correct_answer": "C",
+          "user_answer": "B",
           "is_correct": false
         },
         {
           "id": 14,
           "section_id": "6",
-          "question_text": "Who is the direct chain-of-command superior of the asset, and what is the extent of their authority?",
-          "correct_answer": "A",
-          "user_answer": "A",
+          "question_text": "What is the significance of Dr. Léon Marrón-Saavedra's role in the PAMC?",
+          "correct_answer": "B",
+          "user_answer": "B",
           "is_correct": true
         },
         {
           "id": 15,
           "section_id": "6",
-          "question_text": "What is the total floor area of the primary operational base of the asset, Cuartel Valparaíso?",
+          "question_text": "What is the nature of Comandante Ezequiel Ovalle-Garrido's relationship with the PAMC?",
           "correct_answer": "C",
           "user_answer": "C",
           "is_correct": true
@@ -102,81 +102,81 @@
         {
           "id": 16,
           "section_id": "8",
-          "question_text": "What is the significance of the total floor area of Cuartel Valparaíso in relation to the asset's operations?",
-          "correct_answer": "A",
-          "user_answer": "A",
+          "question_text": "What is the approximate percentage of the total floor area of Cuartel Valparaíso that is dedicated to the asset's personal residence wing?",
+          "correct_answer": "c",
+          "user_answer": "c",
           "is_correct": true
         },
         {
           "id": 17,
           "section_id": "8",
-          "question_text": "How does the Three-Two-One Rule relate to Cell Halcón's operations, given the context of the micro-cache network?",
-          "correct_answer": "B",
-          "user_answer": "B",
+          "question_text": "What is the primary function of Edificio Marasol in relation to the asset's operations?",
+          "correct_answer": "c",
+          "user_answer": "c",
           "is_correct": true
         },
         {
           "id": 18,
           "section_id": "8",
-          "question_text": "What is the primary function of the Edificio Marasol base?",
-          "correct_answer": "C",
-          "user_answer": "B",
-          "is_correct": false
+          "question_text": "What is the standardized provisioning standard for each of the asset's safehouses?",
+          "correct_answer": "b",
+          "user_answer": "b",
+          "is_correct": true
         },
         {
           "id": 19,
           "section_id": "8",
-          "question_text": "What is the significance of the 6.8 million km² operational territory in relation to the asset's authorized deployments?",
-          "correct_answer": "A",
-          "user_answer": "D",
-          "is_correct": false
+          "question_text": "Which of the following countries is partially restricted for the asset's operations, with only certain provinces authorized?",
+          "correct_answer": "b",
+          "user_answer": "b",
+          "is_correct": true
         },
         {
           "id": 20,
           "section_id": "8",
-          "question_text": "How does the asset's micro-cache network contribute to their operations, considering the context of Cuartel Valparaíso's total floor area?",
-          "correct_answer": "B",
-          "user_answer": "A",
-          "is_correct": false
+          "question_text": "What is the reason for the restriction on the Cerro Castillo exclusion ring within the asset's operational territory?",
+          "correct_answer": "c",
+          "user_answer": "c",
+          "is_correct": true
         },
         {
           "id": 21,
           "section_id": "9",
-          "question_text": "What is the primary purpose of the uniform PAMC format in documenting case files?",
-          "correct_answer": "C",
-          "user_answer": "D",
-          "is_correct": false
-        },
-        {
-          "id": 22,
-          "section_id": "9",
           "question_text": "What can be inferred about the total floor area of Cuartel Valparaíso based on the provided case files?",
-          "correct_answer": "C",
-          "user_answer": "B",
-          "is_correct": false
-        },
-        {
-          "id": 23,
-          "section_id": "9",
-          "question_text": "What is the significance of the Three-Two-One Rule in Cell Halcón operations, based on the context of the case files?",
-          "correct_answer": "D",
-          "user_answer": "D",
-          "is_correct": true
-        },
-        {
-          "id": 24,
-          "section_id": "9",
-          "question_text": "What was the outcome of Case 2024-0202: Quebrantadero Showdown, and what were the consequences of this outcome?",
           "correct_answer": "C",
           "user_answer": "C",
           "is_correct": true
         },
         {
-          "id": 25,
+          "id": 22,
           "section_id": "9",
-          "question_text": "What can be inferred about the capabilities of Cell Halcón based on the case files, particularly in relation to the use of the Suspended Field?",
+          "question_text": "What is the primary function of Edificio Marasol, based on the context of the case files?",
+          "correct_answer": "C",
+          "user_answer": "C",
+          "is_correct": true
+        },
+        {
+          "id": 23,
+          "section_id": "9",
+          "question_text": "What was the outcome of Case 2022-0123: Tropopausa First Engagement?",
           "correct_answer": "B",
           "user_answer": "B",
+          "is_correct": true
+        },
+        {
+          "id": 24,
+          "section_id": "9",
+          "question_text": "What was the result of the asset's deployment of Drift Read in Case 2021-0091: Atacama Altiplano?",
+          "correct_answer": "B",
+          "user_answer": "D",
+          "is_correct": false
+        },
+        {
+          "id": 25,
+          "section_id": "9",
+          "question_text": "What was the primary consequence of the Second Echo Lock event during Case 2024-0202: Quebrantadero Showdown?",
+          "correct_answer": "D",
+          "user_answer": "D",
           "is_correct": true
         }
       ]
@@ -184,7 +184,7 @@
     {
       "session_id": 1,
       "section_ids": "5,8",
-      "created_at": "2026-05-24T04:48:03.913068",
+      "created_at": "2026-05-24T09:10:13.415608",
       "total_questions": 10,
       "correct_count": 8,
       "wrong_count": 2,
@@ -192,7 +192,7 @@
         {
           "id": 1,
           "section_id": "5",
-          "question_text": "What is the primary focus of the Doctrine of Sequential Suspension?",
+          "question_text": "What is the core principle of the Doctrine of Sequential Suspension regarding suspension as a resource?",
           "correct_answer": "B",
           "user_answer": "B",
           "is_correct": true
@@ -200,31 +200,31 @@
         {
           "id": 2,
           "section_id": "5",
-          "question_text": "What is the purpose of the Three-Two-One Rule in Cell Halcón operations?",
+          "question_text": "What is the purpose of the Three-Two-One Rule in the asset's tactical heuristic?",
           "correct_answer": "C",
-          "user_answer": "B",
-          "is_correct": false
+          "user_answer": "C",
+          "is_correct": true
         },
         {
           "id": 3,
           "section_id": "5",
-          "question_text": "What is the primary difference between Tier 1 and Tier 3 engagement protocols?",
-          "correct_answer": "D",
-          "user_answer": "D",
+          "question_text": "What is the asset's permitted engagement protocol for a Tier 3 threat?",
+          "correct_answer": "C",
+          "user_answer": "C",
           "is_correct": true
         },
         {
           "id": 4,
           "section_id": "5",
-          "question_text": "What is the key benefit of the Tail-Strike Technique?",
-          "correct_answer": "D",
-          "user_answer": "D",
+          "question_text": "What is the primary advantage of the Tail-Strike Technique?",
+          "correct_answer": "B",
+          "user_answer": "B",
           "is_correct": true
         },
         {
           "id": 5,
           "section_id": "5",
-          "question_text": "What is the primary consideration for the asset when deciding whether to abort an engagement due to civilian risk?",
+          "question_text": "What is the basis for the asset's authority to abort an engagement due to civilian risk?",
           "correct_answer": "C",
           "user_answer": "C",
           "is_correct": true
@@ -232,25 +232,25 @@
         {
           "id": 6,
           "section_id": "8",
-          "question_text": "What is the total floor area of Cuartel Valparaíso, the asset's primary operational base?",
-          "correct_answer": "C",
-          "user_answer": "B",
+          "question_text": "What is the total floor area of Cuartel Valparaíso?",
+          "correct_answer": "B",
+          "user_answer": "D",
           "is_correct": false
         },
         {
           "id": 7,
           "section_id": "8",
-          "question_text": "What is the function of Edificio Marasol, one of the asset's secondary bases?",
+          "question_text": "What is the function of Edificio Marasol?",
           "correct_answer": "C",
-          "user_answer": "C",
-          "is_correct": true
+          "user_answer": "B",
+          "is_correct": false
         },
         {
           "id": 8,
           "section_id": "8",
-          "question_text": "What is the standardized provisioning standard for each of the asset's safehouses?",
-          "correct_answer": "B",
-          "user_answer": "B",
+          "question_text": "What is the standardized provisioning standard for each safehouse?",
+          "correct_answer": "C",
+          "user_answer": "C",
           "is_correct": true
         },
         {
@@ -264,7 +264,7 @@
         {
           "id": 10,
           "section_id": "8",
-          "question_text": "Why is the Cerro Castillo exclusion ring a restricted zone within the asset's operational territory?",
+          "question_text": "Why is the Cerro Castillo exclusion ring restricted?",
           "correct_answer": "C",
           "user_answer": "C",
           "is_correct": true

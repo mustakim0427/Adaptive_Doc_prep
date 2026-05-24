@@ -1,83 +1,83 @@
 [
   {
     "section_id": "5",
-    "question_text": "What is the primary focus of the Doctrine of Sequential Suspension?",
-    "option_a": "Continuous capability",
-    "option_b": "Decisive resource",
-    "option_c": "Sequential targeting",
-    "option_d": "Terminal vector planning",
+    "question_text": "What is the core principle of the Doctrine of Sequential Suspension regarding suspension as a resource?",
+    "option_a": "Suspension is a continuous capability that can be used at any time",
+    "option_b": "Suspension is a decisive resource, not a continuous capability, and should be treated as ammunition",
+    "option_c": "Suspension is only used for defensive purposes",
+    "option_d": "Suspension is only used for offensive purposes",
     "correct_answer": "B",
-    "explanation": "The Doctrine of Sequential Suspension focuses on treating suspension as a decisive resource, not a continuous capability, emphasizing the importance of using it strategically."
+    "explanation": "The Doctrine of Sequential Suspension states that suspension is a decisive resource, not a continuous capability, and should be treated as ammunition, emphasizing the need to use it strategically and sparingly."
   },
   {
     "section_id": "5",
-    "question_text": "What is the purpose of the Three-Two-One Rule in Cell Halcón operations?",
-    "option_a": "To increase the number of activations per minute",
-    "option_b": "To reduce the number of active sightlines",
-    "option_c": "To establish a standard protocol for engagements",
-    "option_d": "To decrease the number of extraction routes",
+    "question_text": "What is the purpose of the Three-Two-One Rule in the asset's tactical heuristic?",
+    "option_a": "To maximize the number of activations per minute",
+    "option_b": "To minimize the number of sightlines maintained during an engagement",
+    "option_c": "To ensure the asset has a pre-anchored extraction route and maintain discipline in activations and sightlines",
+    "option_d": "To reduce the number of pre-anchored extraction routes",
     "correct_answer": "C",
-    "explanation": "The Three-Two-One Rule is a tactical heuristic that provides a standard protocol for Cell Halcón operations, ensuring consistency and discipline in their engagements."
+    "explanation": "The Three-Two-One Rule is a tactical heuristic that aims to ensure the asset maintains discipline in activations and sightlines, with a maximum of three activations per 60-second window, two active sightlines, and one pre-anchored extraction route, to minimize risks and ensure effective engagement."
   },
   {
     "section_id": "5",
-    "question_text": "What is the primary difference between Tier 1 and Tier 3 engagement protocols?",
-    "option_a": "Number of active sightlines",
-    "option_b": "Type of threat",
-    "option_c": "Level of authority",
-    "option_d": "Enforcement of the Three-Two-One Rule",
-    "correct_answer": "D",
-    "explanation": "The primary difference between Tier 1 and Tier 3 engagement protocols is that Tier 3 strictly enforces the Three-Two-One Rule, whereas Tier 1 has no restrictions."
-  },
-  {
-    "section_id": "5",
-    "question_text": "What is the key benefit of the Tail-Strike Technique?",
-    "option_a": "Increased velocity",
-    "option_b": "Improved accuracy",
-    "option_c": "Enhanced predictability",
-    "option_d": "Reduced counter-prediction by adversaries",
-    "correct_answer": "D",
-    "explanation": "The Tail-Strike Technique allows for a strike to be delivered at full thrown velocity but from an arbitrary location, making it difficult for adversaries to predict the trajectory."
-  },
-  {
-    "section_id": "5",
-    "question_text": "What is the primary consideration for the asset when deciding whether to abort an engagement due to civilian risk?",
-    "option_a": "Mission priority",
-    "option_b": "Threat level",
-    "option_c": "Confidence in avoiding civilian harm",
-    "option_d": "Available backup",
+    "question_text": "What is the asset's permitted engagement protocol for a Tier 3 threat?",
+    "option_a": "Solo, full authority",
+    "option_b": "Solo or cell, full authority",
+    "option_c": "Cell required, lead authority, with the Three-Two-One Rule enforced strictly",
+    "option_d": "Cell required, mass-cooldown protocol",
     "correct_answer": "C",
-    "explanation": "The asset is empowered to abort engagement at their sole discretion if civilian risk exceeds the 80% confidence threshold, emphasizing the importance of minimizing harm to civilians."
+    "explanation": "According to the Tier-Based Engagement Protocols, for a Tier 3 threat, the asset is required to engage with a cell, under lead authority, and must strictly enforce the Three-Two-One Rule."
+  },
+  {
+    "section_id": "5",
+    "question_text": "What is the primary advantage of the Tail-Strike Technique?",
+    "option_a": "It allows for a stronger impact due to increased momentum",
+    "option_b": "It enables the asset to strike a target from a location that is impossible to predict",
+    "option_c": "It reduces the time it takes to deliver a strike",
+    "option_d": "It increases the range of the strike",
+    "correct_answer": "B",
+    "explanation": "The Tail-Strike Technique exploits Tail Momentum to deliver a strike from an arbitrary, target-adjacent location, making it nearly impossible for the adversary to predict the trajectory, thus providing a significant tactical advantage."
+  },
+  {
+    "section_id": "5",
+    "question_text": "What is the basis for the asset's authority to abort an engagement due to civilian risk?",
+    "option_a": "A threshold of 50% confidence that no civilian harm will occur",
+    "option_b": "A threshold of 80% confidence that no civilian harm will occur",
+    "option_c": "A zero-tolerance threshold below 80% confidence that no civilian harm will occur",
+    "option_d": "A requirement for explicit permission from PAMC HQ",
+    "correct_answer": "C",
+    "explanation": "According to PAMC Standing Order 9, the asset has the authority to abort an engagement at their sole discretion if the confidence that no civilian harm will occur falls below 80%, emphasizing a zero-tolerance policy for civilian risk."
   },
   {
     "section_id": "8",
-    "question_text": "What is the total floor area of Cuartel Valparaíso, the asset's primary operational base?",
+    "question_text": "What is the total floor area of Cuartel Valparaíso?",
     "option_a": "3820 m²",
-    "option_b": "4200 m²",
-    "option_c": "4820 m²",
-    "option_d": "5020 m²",
-    "correct_answer": "C",
+    "option_b": "4820 m²",
+    "option_c": "5820 m²",
+    "option_d": "6820 m²",
+    "correct_answer": "B",
     "explanation": "According to the study material, the total floor area of Cuartel Valparaíso is 4820 m²."
   },
   {
     "section_id": "8",
-    "question_text": "What is the function of Edificio Marasol, one of the asset's secondary bases?",
-    "option_a": "Field office for Bolivian altiplano operations",
-    "option_b": "Logistics-only annex for southern operations",
-    "option_c": "PAMC Headquarters where the asset rotates through quarterly for senior briefings",
+    "question_text": "What is the function of Edificio Marasol?",
+    "option_a": "Field office, Bolivian altiplano operations",
+    "option_b": "Logistics-only annex, southern operations",
+    "option_c": "PAMC Headquarters",
     "option_d": "Regional CBMP medical office",
     "correct_answer": "C",
-    "explanation": "The study material states that Edificio Marasol serves as the PAMC Headquarters, where the asset attends senior briefings on a quarterly basis."
+    "explanation": "According to the study material, Edificio Marasol serves as the PAMC Headquarters, where the asset rotates through quarterly for senior briefings."
   },
   {
     "section_id": "8",
-    "question_text": "What is the standardized provisioning standard for each of the asset's safehouses?",
-    "option_a": "15-day rations for 2 personnel",
-    "option_b": "30-day rations for 4 personnel",
-    "option_c": "60-day rations for 6 personnel",
-    "option_d": "90-day rations for 8 personnel",
-    "correct_answer": "B",
-    "explanation": "The study material specifies that each safehouse maintains a standardized provisioning standard, which includes 30-day rations for 4 personnel, among other items."
+    "question_text": "What is the standardized provisioning standard for each safehouse?",
+    "option_a": "20-day rations for 2 personnel",
+    "option_b": "30-day rations for 2 personnel",
+    "option_c": "30-day rations for 4 personnel",
+    "option_d": "40-day rations for 4 personnel",
+    "correct_answer": "C",
+    "explanation": "According to the study material, each safehouse maintains a standardized provisioning standard, which includes 30-day rations for 4 personnel."
   },
   {
     "section_id": "8",
@@ -91,12 +91,12 @@
   },
   {
     "section_id": "8",
-    "question_text": "Why is the Cerro Castillo exclusion ring a restricted zone within the asset's operational territory?",
+    "question_text": "Why is the Cerro Castillo exclusion ring restricted?",
     "option_a": "Strategic; ongoing classified PAMC investigation",
     "option_b": "Jurisdictional; pending bilateral agreement",
-    "option_c": "Psychological; CBMP recommendation since 2020",
-    "option_d": "Environmental; protected wildlife reserve",
+    "option_c": "Psychological; CBMP recommendation",
+    "option_d": "Due to environmental concerns",
     "correct_answer": "C",
-    "explanation": "The study material states that the Cerro Castillo exclusion ring is a restricted zone due to psychological reasons, as recommended by the CBMP since 2020, following the 2018 incident."
+    "explanation": "According to the study material, the Cerro Castillo exclusion ring is restricted due to psychological reasons, as per the CBMP recommendation since 2020."
   }
 ]

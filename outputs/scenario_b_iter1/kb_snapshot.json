@@ -4,7 +4,7 @@
     {
       "session_id": 1,
       "section_ids": "5,8",
-      "created_at": "2026-05-24T04:48:03.913068",
+      "created_at": "2026-05-24T09:10:13.415608",
       "total_questions": 10,
       "correct_count": 8,
       "wrong_count": 2,
@@ -12,7 +12,7 @@
         {
           "id": 1,
           "section_id": "5",
-          "question_text": "What is the primary focus of the Doctrine of Sequential Suspension?",
+          "question_text": "What is the core principle of the Doctrine of Sequential Suspension regarding suspension as a resource?",
           "correct_answer": "B",
           "user_answer": "B",
           "is_correct": true
@@ -20,31 +20,31 @@
         {
           "id": 2,
           "section_id": "5",
-          "question_text": "What is the purpose of the Three-Two-One Rule in Cell Halcón operations?",
+          "question_text": "What is the purpose of the Three-Two-One Rule in the asset's tactical heuristic?",
           "correct_answer": "C",
-          "user_answer": "B",
-          "is_correct": false
+          "user_answer": "C",
+          "is_correct": true
         },
         {
           "id": 3,
           "section_id": "5",
-          "question_text": "What is the primary difference between Tier 1 and Tier 3 engagement protocols?",
-          "correct_answer": "D",
-          "user_answer": "D",
+          "question_text": "What is the asset's permitted engagement protocol for a Tier 3 threat?",
+          "correct_answer": "C",
+          "user_answer": "C",
           "is_correct": true
         },
         {
           "id": 4,
           "section_id": "5",
-          "question_text": "What is the key benefit of the Tail-Strike Technique?",
-          "correct_answer": "D",
-          "user_answer": "D",
+          "question_text": "What is the primary advantage of the Tail-Strike Technique?",
+          "correct_answer": "B",
+          "user_answer": "B",
           "is_correct": true
         },
         {
           "id": 5,
           "section_id": "5",
-          "question_text": "What is the primary consideration for the asset when deciding whether to abort an engagement due to civilian risk?",
+          "question_text": "What is the basis for the asset's authority to abort an engagement due to civilian risk?",
           "correct_answer": "C",
           "user_answer": "C",
           "is_correct": true
@@ -52,25 +52,25 @@
         {
           "id": 6,
           "section_id": "8",
-          "question_text": "What is the total floor area of Cuartel Valparaíso, the asset's primary operational base?",
-          "correct_answer": "C",
-          "user_answer": "B",
+          "question_text": "What is the total floor area of Cuartel Valparaíso?",
+          "correct_answer": "B",
+          "user_answer": "D",
           "is_correct": false
         },
         {
           "id": 7,
           "section_id": "8",
-          "question_text": "What is the function of Edificio Marasol, one of the asset's secondary bases?",
+          "question_text": "What is the function of Edificio Marasol?",
           "correct_answer": "C",
-          "user_answer": "C",
-          "is_correct": true
+          "user_answer": "B",
+          "is_correct": false
         },
         {
           "id": 8,
           "section_id": "8",
-          "question_text": "What is the standardized provisioning standard for each of the asset's safehouses?",
-          "correct_answer": "B",
-          "user_answer": "B",
+          "question_text": "What is the standardized provisioning standard for each safehouse?",
+          "correct_answer": "C",
+          "user_answer": "C",
           "is_correct": true
         },
         {
@@ -84,7 +84,7 @@
         {
           "id": 10,
           "section_id": "8",
-          "question_text": "Why is the Cerro Castillo exclusion ring a restricted zone within the asset's operational territory?",
+          "question_text": "Why is the Cerro Castillo exclusion ring restricted?",
           "correct_answer": "C",
           "user_answer": "C",
           "is_correct": true

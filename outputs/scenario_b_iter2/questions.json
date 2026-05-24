@@ -1,152 +1,152 @@
 [
   {
     "section_id": "6",
-    "question_text": "What is the primary role of the Cooperative Bureau of Metahuman Physics (CBMP) in the PAMC?",
-    "option_a": "To oversee the Operations Directorate",
-    "option_b": "To conduct research on metahuman physics",
-    "option_c": "To manage the Logistics Directorate",
-    "option_d": "To handle the Behavioral Health Directorate",
+    "question_text": "What is the primary function of the building where the Pan-American Metahuman Cooperative is headquartered?",
+    "option_a": "To serve as a metahuman training facility",
+    "option_b": "To function as the Cooperative's administrative headquarters",
+    "option_c": "To operate as a metahuman physics research laboratory",
+    "option_d": "To provide medical services to metahuman operatives",
     "correct_answer": "B",
-    "explanation": "The CBMP is responsible for conducting research on metahuman physics, as indicated by the presence of a senior scientist like Dr. Léon Marrón-Saavedra, who co-authored the Calvache–Marrón Equations."
+    "explanation": "The primary function of Edificio Marasol, where the PAMC is headquartered, is to serve as the administrative headquarters of the Cooperative."
   },
   {
     "section_id": "6",
-    "question_text": "What is the significance of the Three-Two-One Rule in the context of Cell Halcón operations?",
-    "option_a": "It determines the cell's engagement protocol for Tier 4 operations",
-    "option_b": "It outlines the procedure for metahuman physiological analysis",
-    "option_c": "It specifies the minimum number of operatives required for a mission",
-    "option_d": "It is not mentioned in the provided study material",
-    "correct_answer": "D",
-    "explanation": "The Three-Two-One Rule is not explicitly mentioned in the provided study material, making it impossible to determine its significance without further context."
-  },
-  {
-    "section_id": "6",
-    "question_text": "What is the metahuman classification of Lt. Solène Bauer-Cortez, and what is the significance of this classification?",
-    "option_a": "Class A-2, allowing her to perceive electromagnetic emissions up to 6 GHz",
-    "option_b": "Class C-1, enabling her to perceive electromagnetic emissions from 30 Hz to 6 GHz within 80 m",
-    "option_c": "Class B-1, granting her enhanced strength and agility",
-    "option_d": "Class D-1, allowing her to manipulate electromagnetic fields",
-    "correct_answer": "B",
-    "explanation": "Lt. Solène Bauer-Cortez is classified as a Class C-1 metahuman, which means she can perceive electromagnetic emissions from 30 Hz to 6 GHz within a range of 80 m, making her a valuable asset for technical operations."
-  },
-  {
-    "section_id": "6",
-    "question_text": "Who is the direct chain-of-command superior of the asset, and what is the extent of their authority?",
-    "option_a": "Director Aída Salvatierra-Bunge, with the authority to override all engagement decisions",
-    "option_b": "Director-General María-Elena Espósito-Tagle, with the authority to override all operational decisions",
-    "option_c": "Dr. Léon Marrón-Saavedra, with the authority to conduct scientific re-evaluations of the asset's power",
-    "option_d": "Dr. Maite Borghi-Castelnuovo, with the authority to provide mental health services to the asset",
-    "correct_answer": "A",
-    "explanation": "Director Aída Salvatierra-Bunge is the direct chain-of-command superior of the asset, and she has the authority to override all engagement decisions except those made at the Director-General level."
-  },
-  {
-    "section_id": "6",
-    "question_text": "What is the total floor area of the primary operational base of the asset, Cuartel Valparaíso?",
-    "option_a": "10,000 square meters",
-    "option_b": "20,000 square meters",
-    "option_c": "The study material does not provide this information",
-    "option_d": "50,000 square meters",
+    "question_text": "What can be inferred about the total floor area of Cuartel Valparaíso based on the provided information?",
+    "option_a": "It is a large facility with extensive grounds",
+    "option_b": "It is a relatively small building with limited space",
+    "option_c": "The information provided does not mention Cuartel Valparaíso",
+    "option_d": "It is a metahuman training facility with a large floor area",
     "correct_answer": "C",
-    "explanation": "The study material does not provide information about the total floor area of Cuartel Valparaíso, making it impossible to determine the correct answer."
+    "explanation": "The provided information does not mention Cuartel Valparaíso, so we cannot infer anything about its total floor area."
   },
   {
-    "section_id": "8",
-    "question_text": "What is the significance of the total floor area of Cuartel Valparaíso in relation to the asset's operations?",
-    "option_a": "It determines the number of personnel that can be accommodated",
-    "option_b": "It affects the operational security level of the facility",
-    "option_c": "It influences the type of equipment that can be stored",
-    "option_d": "It is irrelevant to the asset's operations",
-    "correct_answer": "A",
-    "explanation": "The total floor area of Cuartel Valparaíso is 4,820 m², which suggests that it can accommodate a certain number of personnel, as indicated by the personnel capacity parameter, making option A the most relevant answer"
+    "section_id": "6",
+    "question_text": "What is the role of Sgt. Mateo Quispe-Linares in Cell Halcón?",
+    "option_a": "Lead Officer",
+    "option_b": "Technical Specialist",
+    "option_c": "Tracker / Recon",
+    "option_d": "Field Medic",
+    "correct_answer": "C",
+    "explanation": "Sgt. Mateo Quispe-Linares serves as the Tracker / Recon specialist in Cell Halcón, utilizing his skills in high-altitude tracking and alpine reconnaissance."
   },
   {
-    "section_id": "8",
-    "question_text": "How does the Three-Two-One Rule relate to Cell Halcón's operations, given the context of the micro-cache network?",
-    "option_a": "It dictates the ratio of cache locations to personnel",
-    "option_b": "It governs the frequency of cache rotations",
-    "option_c": "It is unrelated to the micro-cache network",
-    "option_d": "It determines the number of backup comms units per cache",
+    "section_id": "6",
+    "question_text": "What is the significance of Dr. Léon Marrón-Saavedra's role in the PAMC?",
+    "option_a": "He is the Director-General of the PAMC",
+    "option_b": "He is a senior scientist who conducts annual scientific re-evaluations of the asset's power",
+    "option_c": "He is a metahuman operative with Class A-1 classification",
+    "option_d": "He is a psychologist who provides mental health services to metahuman operatives",
     "correct_answer": "B",
-    "explanation": "Although the Three-Two-One Rule is not explicitly mentioned in the provided text, it can be inferred that it might be related to the frequency of cache rotations, given the mention of cache locations being rotated every 36 months, making option B a plausible answer"
+    "explanation": "Dr. Léon Marrón-Saavedra is a senior scientist who conducts annual scientific re-evaluations of the asset's power, and is also the co-author of the Calvache-Marrón Equations."
+  },
+  {
+    "section_id": "6",
+    "question_text": "What is the nature of Comandante Ezequiel Ovalle-Garrido's relationship with the PAMC?",
+    "option_a": "He is a metahuman operative with Class A-1 classification",
+    "option_b": "He is a senior scientist in the Cooperative Bureau of Metahuman Physics",
+    "option_c": "He is a liaison officer between the PAMC and the Chilean Army",
+    "option_d": "He is the Director-General of the PAMC",
+    "correct_answer": "C",
+    "explanation": "Comandante Ezequiel Ovalle-Garrido serves as a liaison officer between the PAMC and the Chilean Army, facilitating coordination and support for PAMC operations in Chilean territory."
   },
   {
     "section_id": "8",
-    "question_text": "What is the primary function of the Edificio Marasol base?",
+    "question_text": "What is the approximate percentage of the total floor area of Cuartel Valparaíso that is dedicated to the asset's personal residence wing?",
+    "option_a": "0.5%",
+    "option_b": "0.9%",
+    "option_c": "1.0%",
+    "option_d": "2.0%",
+    "correct_answer": "c",
+    "explanation": "The total floor area of Cuartel Valparaíso is 4820 m², and the asset's personal residence wing is 44 m². The percentage is calculated as (44 / 4820) * 100, which is approximately 0.9%."
+  },
+  {
+    "section_id": "8",
+    "question_text": "What is the primary function of Edificio Marasol in relation to the asset's operations?",
     "option_a": "Field office for Bolivian altiplano operations",
     "option_b": "Logistics-only annex for southern operations",
     "option_c": "PAMC Headquarters where the asset rotates through quarterly for senior briefings",
-    "option_d": "Regional CBMP medical office",
-    "correct_answer": "C",
-    "explanation": "According to the study material, Edificio Marasol serves as the PAMC Headquarters, where the asset attends quarterly for senior briefings, making option C the correct answer"
+    "option_d": "Safehouse for the asset's personal use",
+    "correct_answer": "c",
+    "explanation": "Edificio Marasol is the PAMC Headquarters, and the asset rotates through it quarterly for senior briefings, as stated in section 8.2."
   },
   {
     "section_id": "8",
-    "question_text": "What is the significance of the 6.8 million km² operational territory in relation to the asset's authorized deployments?",
-    "option_a": "It marks the boundary beyond which the asset cannot operate without Director-General authorization",
-    "option_b": "It indicates the area where the asset has unlimited access",
-    "option_c": "It defines the region where the asset can operate only under specific conditions",
-    "option_d": "It is irrelevant to the asset's deployments",
-    "correct_answer": "A",
-    "explanation": "The 6.8 million km² operational territory serves as the authorized area for the asset's deployments, and any operations beyond this territory require Director-General authorization, making option A the correct answer"
+    "question_text": "What is the standardized provisioning standard for each of the asset's safehouses?",
+    "option_a": "15-day rations for 2 personnel, 1 Yatiri-2 backup comms unit",
+    "option_b": "30-day rations for 4 personnel, 1 Yatiri-2 backup comms unit",
+    "option_c": "60-day rations for 6 personnel, 2 Yatiri-2 backup comms units",
+    "option_d": "90-day rations for 8 personnel, 3 Yatiri-2 backup comms units",
+    "correct_answer": "b",
+    "explanation": "The standardized provisioning standard for each safehouse includes 30-day rations for 4 personnel and a Yatiri-2 backup comms unit, among other items, as stated in section 8.3."
   },
   {
     "section_id": "8",
-    "question_text": "How does the asset's micro-cache network contribute to their operations, considering the context of Cuartel Valparaíso's total floor area?",
-    "option_a": "It provides a means for the asset to store equipment, which is not possible at Cuartel Valparaíso due to limited floor area",
-    "option_b": "It allows the asset to access resources and supplies across the operational territory, supplementing the capabilities of Cuartel Valparaíso",
-    "option_c": "It is an alternative to the safehouses, providing a more secure means of cover",
-    "option_d": "It is unrelated to the asset's operations at Cuartel Valparaíso",
-    "correct_answer": "B",
-    "explanation": "The micro-cache network enables the asset to access resources and supplies across the operational territory, which complements the capabilities of Cuartel Valparaíso, making option B the correct answer"
+    "question_text": "Which of the following countries is partially restricted for the asset's operations, with only certain provinces authorized?",
+    "option_a": "Chile",
+    "option_b": "Argentina",
+    "option_c": "Peru",
+    "option_d": "Ecuador",
+    "correct_answer": "b",
+    "explanation": "The asset's authorized operational territory includes only certain provinces of Argentina (Mendoza, Salta, Jujuy, Neuquén, Río Negro, and Chubut), as stated in section 8.5."
   },
   {
-    "section_id": "9",
-    "question_text": "What is the primary purpose of the uniform PAMC format in documenting case files?",
-    "option_a": "To classify cases as open, classified, or declassified",
-    "option_b": "To record the outcome of each case, including PAMC and adversary casualties",
-    "option_c": "To provide a standardized template for documenting case details, such as date, location, and outcome",
-    "option_d": "To evaluate the performance of operatives and assets in each case",
-    "correct_answer": "C",
-    "explanation": "The uniform PAMC format is used to provide a standardized template for documenting case details, making it easier to review and compare cases."
+    "section_id": "8",
+    "question_text": "What is the reason for the restriction on the Cerro Castillo exclusion ring within the asset's operational territory?",
+    "option_a": "Strategic; ongoing classified PAMC investigation",
+    "option_b": "Jurisdictional; pending bilateral agreement",
+    "option_c": "Psychological; CBMP recommendation",
+    "option_d": "Environmental; protected wildlife reserve",
+    "correct_answer": "c",
+    "explanation": "The Cerro Castillo exclusion ring is restricted due to psychological reasons, as recommended by CBMP since 2020, as stated in section 8.6."
   },
   {
     "section_id": "9",
     "question_text": "What can be inferred about the total floor area of Cuartel Valparaíso based on the provided case files?",
-    "option_a": "It is a large facility with multiple operational bases",
-    "option_b": "It is a small facility with limited operational capacity",
-    "option_c": "There is no information available about the total floor area of Cuartel Valparaíso",
-    "option_d": "It is the primary operational base for Cell Halcón",
+    "option_a": "It is not relevant to the case files",
+    "option_b": "It is larger than the area of operation in Case 2020-0048",
+    "option_c": "The information is not provided in the case files",
+    "option_d": "It is smaller than the area of operation in Case 2022-0123",
     "correct_answer": "C",
-    "explanation": "The provided case files do not mention the total floor area of Cuartel Valparaíso, making it impossible to infer any information about its size."
+    "explanation": "The case files do not mention the total floor area of Cuartel Valparaíso, so we cannot determine this information from the provided text."
   },
   {
     "section_id": "9",
-    "question_text": "What is the significance of the Three-Two-One Rule in Cell Halcón operations, based on the context of the case files?",
-    "option_a": "It is a protocol for containing and neutralizing adversaries",
-    "option_b": "It is a rule for evaluating the performance of operatives and assets",
-    "option_c": "It is a guideline for conducting audits and counter-audits",
-    "option_d": "The context of the case files does not provide enough information to determine the significance of the Three-Two-One Rule",
-    "correct_answer": "D",
-    "explanation": "The case files do not provide enough information to determine the significance of the Three-Two-One Rule, making it impossible to infer its purpose or application."
-  },
-  {
-    "section_id": "9",
-    "question_text": "What was the outcome of Case 2024-0202: Quebrantadero Showdown, and what were the consequences of this outcome?",
-    "option_a": "The outcome was Successful, with no civilian casualties",
-    "option_b": "The outcome was Pyrrhic, with some civilian injuries",
-    "option_c": "The outcome was Catastrophic, with 11 civilian deaths and 27 civilian injuries",
-    "option_d": "The outcome was Inconclusive, with no reported casualties",
+    "question_text": "What is the primary function of Edificio Marasol, based on the context of the case files?",
+    "option_a": "It serves as a headquarters for PAMC operations",
+    "option_b": "It is a location for Concession affiliate meetings",
+    "option_c": "The information is not provided in the case files",
+    "option_d": "It is a training facility for SLATEFALL operatives",
     "correct_answer": "C",
-    "explanation": "The outcome of Case 2024-0202 was Catastrophic, resulting in 11 civilian deaths and 27 civilian injuries, and leading to a formal inquiry and recommended protocol changes."
+    "explanation": "The case files do not mention Edificio Marasol or its function, so we cannot determine this information from the provided text."
   },
   {
     "section_id": "9",
-    "question_text": "What can be inferred about the capabilities of Cell Halcón based on the case files, particularly in relation to the use of the Suspended Field?",
-    "option_a": "Cell Halcón has limited capabilities and is not effective in combat situations",
-    "option_b": "Cell Halcón has demonstrated full capability in combat situations, including the use of the Suspended Field",
-    "option_c": "Cell Halcón is primarily used for defensive operations and is not suited for offensive missions",
-    "option_d": "Cell Halcón is still in the experimental phase and has not been deployed in actual combat situations",
+    "question_text": "What was the outcome of Case 2022-0123: Tropopausa First Engagement?",
+    "option_a": "Successful",
+    "option_b": "Pyrrhic",
+    "option_c": "Inconclusive",
+    "option_d": "Catastrophic",
     "correct_answer": "B",
-    "explanation": "The case files demonstrate that Cell Halcón has demonstrated full capability in combat situations, including the use of the Suspended Field, as seen in Case 2024-0034: Tarapacá Concession Raid."
+    "explanation": "According to the case file, the outcome of Case 2022-0123 was Pyrrhic, indicating that the operation was partially successful but with significant costs or losses."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What was the result of the asset's deployment of Drift Read in Case 2021-0091: Atacama Altiplano?",
+    "option_a": "The asset failed to detect incoming small-arms rounds",
+    "option_b": "The asset detected and interdicted three incoming small-arms rounds",
+    "option_c": "The asset suffered a critical malfunction",
+    "option_d": "The asset's Drift Read ability was not operationally validated",
+    "correct_answer": "B",
+    "explanation": "According to the case file, the asset successfully detected and interdicted three incoming small-arms rounds across a 36-hour engagement window, operationally validating the Drift Read ability."
+  },
+  {
+    "section_id": "9",
+    "question_text": "What was the primary consequence of the Second Echo Lock event during Case 2024-0202: Quebrantadero Showdown?",
+    "option_a": "The asset suffered a minor injury",
+    "option_b": "The operation was concluded ahead of schedule",
+    "option_c": "Quebrantadero was captured",
+    "option_d": "A civilian-density urban target was struck, resulting in 11 deaths and 27 injuries",
+    "correct_answer": "D",
+    "explanation": "According to the case file, the Second Echo Lock event during Case 2024-0202 led to Quebrantadero's pulse striking a civilian-density urban target, resulting in significant civilian casualties before SLATEFALL could interdict."
   }
 ]
