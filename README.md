@@ -78,8 +78,7 @@ Place `SLATEFALL_DOSSIER.pdf` inside the `data/` folder.
 ## Option 1 — Run With Docker (Recommended)
 
 ### 1. Make sure Docker Desktop is running
-Download from https://www.docker.com/products/docker-desktop if needed.
-Wait until you see "Engine Running" in Docker Desktop.
+
 
 ### 2. Create an empty database file
 ```bash
@@ -107,7 +106,7 @@ Press `Ctrl+C` in the terminal.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/adaptive-doc-prep.git
+git clone https://github.com/mustakim0427/adaptive-doc-prep.git
 cd adaptive-doc-prep
 ```
 
@@ -134,13 +133,13 @@ pip install fastapi uvicorn pymupdf groq python-dotenv requests streamlit
 uvicorn main:app --reload
 ```
 
-Your API is now running at `http://127.0.0.1:8000` ✅
+Your API is now running at `http://127.0.0.1:8000` 
 
 ---
 
 ## Using The Streamlit UI (Optional)
 
-Once the server is running (via Docker or uvicorn), open a new terminal and run:
+Once the server is running (via Docker or uvicorn), opened a new terminal and ran:
 
 ```bash
 streamlit run app.py
