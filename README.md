@@ -43,25 +43,71 @@ adaptive_doc_prep/
 ├── llm.py
 ├── prep_flow.py
 ├── main.py
+├── Dockerfile
+├── docker-compose.yml
 ├── .env
 ├── .gitignore
 └── README.md
 ```
 
-
+---
 
 ## Prerequisites
 
 - Python 3.10+
 - A free Groq API key from https://console.groq.com
+- Docker Desktop (optional, for running with Docker)
 
+---
 
+## Setup — Add Your API Key
 
-## Setup Instructions
+Create a `.env` file in the project root:
+```
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+## Setup — Add The PDF
+
+Place `SLATEFALL_DOSSIER.pdf` inside the `data/` folder.
+
+---
+
+## Option 1 — Run With Docker (Recommended)
+
+This is the easiest way. Just one command runs everything.
+
+### 1. Make sure Docker Desktop is running
+Download from https://www.docker.com/products/docker-desktop if needed.
+Wait until you see "Engine Running" in Docker Desktop.
+
+### 2. Create an empty database file
+```bash
+New-Item -Path "knowledge_base.db" -ItemType File -Force
+```
+
+### 3. Start the server
+```bash
+docker-compose up --build
+```
+
+Wait for:
+```
+app-1  | INFO:     Application startup complete.
+```
+
+Your API is now running at `http://127.0.0.1:8000` ✅
+
+### 4. To stop Docker
+Press `Ctrl+C` in the terminal.
+
+---
+
+## Option 2 — Run Without Docker (Manual Setup)
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/mustakim0427/Adaptive_Doc_prep.git
+git clone https://github.com/YOUR_USERNAME/adaptive-doc-prep.git
 cd adaptive-doc-prep
 ```
 
@@ -83,21 +129,12 @@ source venv/bin/activate
 pip install fastapi uvicorn pymupdf groq python-dotenv requests
 ```
 
-### 4. Add your API key
-Create a `.env` file in the project root:
-```
-GROQ_API_KEY=your_groq_api_key_here
-```
-
-### 5. Add the PDF
-Place `SLATEFALL_DOSSIER.pdf` inside the `data/` folder.
-
-### 6. Start the server
+### 4. Start the server
 ```bash
 uvicorn main:app --reload
 ```
 
-The API will be running at `http://127.0.0.1:8000`
+Your API is now running at `http://127.0.0.1:8000` ✅
 
 ---
 
@@ -107,10 +144,29 @@ Once the server is running, visit:
 ```
 http://127.0.0.1:8000/docs
 ```
+This gives you an interactive API explorer to test all endpoints.
 
 ---
 
 ## Running Evaluation Scenarios
+
+### Fresh Start (Required Before Running Scenarios)
+
+To ensure a clean run with no prior history:
+
+**With Docker:** Create a new empty database file and restart:
+```bash
+New-Item -Path "knowledge_base.db" -ItemType File -Force
+docker-compose up --build
+```
+
+**Without Docker:** Delete the database file and restart the server:
+```bash
+del knowledge_base.db
+uvicorn main:app --reload
+```
+
+---
 
 ### Scenario A — Cold start prep over two sections
 ```bash
@@ -124,9 +180,9 @@ python -c "import requests; response = requests.post('http://127.0.0.1:8000/scen
 
 Outputs saved to:
 ```
-outputs/scenario_b_iter1/
-outputs/scenario_b_iter2/
-outputs/scenario_b_iter3/
+outputs/scenario_b_iter1/   → questions.json + kb_snapshot.json
+outputs/scenario_b_iter2/   → questions.json + kb_snapshot.json
+outputs/scenario_b_iter3/   → questions.json + kb_snapshot.json
 ```
 
 ---
